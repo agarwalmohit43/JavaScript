@@ -16,10 +16,8 @@ var c= false;//boolean
 var d=null;//null
 var e;//undefined*/
 
-
-/*Objects in javascript*/
 function objects() {
-    console.log("Objects");
+    /*Objects in javascript*/
     var person={name:"Mohit",age:24};//by key value pair i.e literal way
     console.log("key-value : "+person.name+" "+person.age);
 //console.log(person+"\n");//prints object Object
@@ -92,7 +90,6 @@ function strings() {
     console.log(name.slice(0,3));//substring
 }
 
-
 function dates() {
     /*Date Object*/
     var date=new Date();
@@ -124,15 +121,17 @@ function setTime() {
     },1000);
 }
 
-var jsonObj1 = {"name":"mohit","title":"Mr."};
-console.log(jsonObj1);
-console.log(jsonObj1.name);
+function json() {
+    var jsonObj1 = {"name":"mohit","title":"Mr."};
+    console.log(jsonObj1);
+    console.log(jsonObj1.name);
 //console.log(delete jsonObj1.name);//deletes object
-console.log(JSON.stringify(jsonObj1));
-console.log(JSON.parse(JSON.stringify(jsonObj1)));
+    console.log(JSON.stringify(jsonObj1));
+    console.log(JSON.parse(JSON.stringify(jsonObj1)));
 
-var ar1=JSON.parse(JSON.stringify(jsonObj1));
-console.log(ar1.name);
+    var ar1=JSON.parse(JSON.stringify(jsonObj1));
+    console.log(ar1.name);
 
-for(var x in ar1)
-    console.log(ar1[x]);
+    for(var x in ar1)
+        console.log(ar1[x]);
+}

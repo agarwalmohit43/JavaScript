@@ -43,8 +43,8 @@
       <file leaf-file-name="one.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="137" column="22" lean-forward="false" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+            <state relative-caret-position="203">
+              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="n#!!block;n#objects#0" expanded="false" />
                 <element signature="n#!!block;n#arrays#0" expanded="false" />
@@ -52,8 +52,9 @@
                 <element signature="n#!!block;n#dates#0" expanded="false" />
                 <element signature="n#!!block;n#numbers#0" expanded="false" />
                 <element signature="n#!!block;n#setTime#0" expanded="false" />
-                <element signature="e#2804#2837#0" expanded="false" />
-                <element signature="e#2913#2946#0" expanded="false" />
+                <element signature="e#2778#2811#0" expanded="false" />
+                <element signature="e#2887#2920#0" expanded="false" />
+                <element signature="n#!!block;n#json#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -284,12 +285,12 @@
       <workItem from="1489434163992" duration="2859000" />
       <workItem from="1496126886940" duration="617000" />
       <workItem from="1496129374500" duration="94000" />
-      <workItem from="1504188389224" duration="13771000" />
+      <workItem from="1504188389224" duration="13825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21102000" />
+    <option name="totallyTimeSpent" value="21156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="137" column="22" lean-forward="false" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        <state relative-caret-position="203">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="n#!!block;n#objects#0" expanded="false" />
             <element signature="n#!!block;n#arrays#0" expanded="false" />
@@ -521,8 +522,9 @@
             <element signature="n#!!block;n#dates#0" expanded="false" />
             <element signature="n#!!block;n#numbers#0" expanded="false" />
             <element signature="n#!!block;n#setTime#0" expanded="false" />
-            <element signature="e#2804#2837#0" expanded="false" />
-            <element signature="e#2913#2946#0" expanded="false" />
+            <element signature="e#2778#2811#0" expanded="false" />
+            <element signature="e#2887#2920#0" expanded="false" />
+            <element signature="n#!!block;n#json#0" expanded="false" />
           </folding>
         </state>
       </provider>
