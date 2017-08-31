@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MOHIT</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+
+
+        var person={
+            firstName:"Mohit",
+            lastName:"Agarwal",
+            age:"22",
+            email:"agarawlmohit43@gmail.com"
+        };
+
+        function change() {
+            document.getElementById('demo').innerHTML=person.firstName+" "+person.lastName+" "+person.email+" "+person.email.toUpperCase();
+        }
+    </script>
+</head>
+<body>
+<p id="demo">JAI HIND</p>
+
+<button onclick="change()">Click me</button>
+</body>
+</html>
