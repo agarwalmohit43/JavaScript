@@ -6,6 +6,7 @@ var b=5;
 var c='5';
 var d=null;
 var e;
+var f='5';
 console.log(a+b);
 console.log(a+c);
 console.log(d);
