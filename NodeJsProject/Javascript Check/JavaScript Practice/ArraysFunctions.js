@@ -1,6 +1,7 @@
 var arr = [10,2,8,1,15,12];
 var arr2 = ["Mohit","Yash","Aishs","ilu","apple"];
 var arr3 = ["Mohit","25","Letter",10,50];
+var arr4 = [];
 
 // console.log(arr.concat(arr2).concat(arr3).toString());//concat
 // console.log(arr2.copyWithin(4,0,2));//copyWithin(target,start,end)
@@ -27,3 +28,4 @@ var arr3 = ["Mohit","25","Letter",10,50];
 // console.log(arr2.some(function (t) { return !isNaN(t); }))//just opposite of every if any element pass the test
 // console.log(arr2.toString());//converts array to string
 // console.log(arr.valueOf());// return primitive value of the array
+// console.log(arr4.pop());//undefined because array is empty
