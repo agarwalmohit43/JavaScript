@@ -272,55 +272,98 @@ function checkies2() {
     console.log(arr.map(function(i){ return parseInt(i);}).filter(function(x) { return !isNaN(x) }).reduce(function(sum,i) { return sum + i} ));
 }
 
-// var arr = [10,8,1,2];
-// arr.sort(function (a,b) {
-//     console.log("Numbers are:"+a+" "+b);
-//     return a>b;
-// })
-// console.log(arr);
+function interviews() {
+    var arr = [10,8,1,2];
+arr.sort(function (a,b) {
+    console.log("Numbers are:"+a+" "+b);
+    return a>b;
+})
+console.log(arr);
 
-// var arr2 = [{"name":"abc","age":"50"},{"name":"def","age":"20"},{"name":"ghi","age":"40"},{"name":"jkl","age":"35"},{"name":"mno","age":"15"}];
+var arr2 = [{"name":"abc","age":"50"},{"name":"def","age":"20"},{"name":"ghi","age":"40"},{"name":"jkl","age":"35"},{"name":"mno","age":"15"}];
+
+
+arr2.sort(function (a,b) {
+        return a.age < b.age;
+});
+console.log(arr2);
+
+var arr = ["Mohit",1,2,3,4,5];
+console.log(arr.map(function (t) { return parseInt(t); }).filter(function (t) { return !isNaN(t); }));
+console.log(arr.map(function (t) { return parseInt(t); }).filter(function (t) { return !isNaN(t); }).reduce(function (sum,i) { return sum+i;  }));
+console.log(arr.filter(function (t) { return !isNaN(t); }).reduce(function (sum,i) { return sum+i;  }));
+
+function add(a,b){ return a+b};
+function asda(a,b,callback) {
+   return callback(a,b);
+}
+
+console.log(asda(5,4,add));
+
+var arr = ['foo',5,5,'baz',10,'8'];
+
+var sum = 0;
+
+for(var i=0;i<arr.length;i++)
+{
+    if(!isNaN(arr[i]))
+    {
+
+        sum+=parseInt(arr[i]);
+    }else
+    {
+        var number=parseInt(arr[i]);
+        console.log(number);
+        if(isNaN(number))
+            continue;
+        else
+        {
+            sum+=number;
+        }
+    }
+}
+console.log(sum);
+}
 //
+// var add = function (baseNumber) {
 //
-// arr2.sort(function (a,b) {
-//         return a.age < b.age;
-// });
-// console.log(arr2);
-
-// var arr = ["Mohit",1,2,3,4,5];
-// console.log(arr.map(function (t) { return parseInt(t); }).filter(function (t) { return !isNaN(t); }));
-//console.log(arr.map(function (t) { return parseInt(t); }).filter(function (t) { return !isNaN(t); }).reduce(function (sum,i) { return sum+i;  }));
-//console.log(arr.filter(function (t) { return !isNaN(t); }).reduce(function (sum,i) { return sum+i;  }));
-
-
-
-// function add(a,b){ return a+b};
-// function asda(a,b,callback) {
-//    return callback(a,b);
+//    var addInner = function (inner)
+//    {
+//         return baseNumber + inner;
+//    }
+//     return addInner;
 // }
 //
-// console.log(asda(5,4,add));
-
-// var arr = ['foo',5,5,'baz',10,'8'];
+// var number = add(10);
+// console.log(number(1));
 //
-// var sum = 0;
-//
-// for(var i=0;i<arr.length;i++)
-// {
-//     if(!isNaN(arr[i]))
-//     {
-//
-//         sum+=parseInt(arr[i]);
-//     }else
-//     {
-//         var number=parseInt(arr[i]);
-//         console.log(number);
-//         if(isNaN(number))
-//             continue;
-//         else
-//         {
-//             sum+=number;
-//         }
-//     }
+// for(var i = 0; i < 10; i++) {
+//     setTimeout(function() {
+//         console.log(i);
+//     }, 10);
 // }
-// console.log(sum);
+//
+// for(var i = 0; i < 10; i++) {
+//     setTimeout((function(i) {
+//         console.log(i);
+//     }).bind(null,i), 10);
+// }
+//
+// for(var i = 0; i < 10; i++) {
+//     setTimeout(console.log.bind(i), 10);
+// }
+
+var obj ={num:2};
+
+var addTo = function (x,y,z) {
+    //console.log(x+" "+y+" "+z);
+    return this.num + x+y+z;
+}
+
+console.log(addTo.call(obj,'M',5,5)); // functionName.call(object, functionArguments)
+
+var arr = [1,2,3];
+console.log(addTo.apply(obj,arr)); // functionName.apply(object, array)
+
+var bound = addTo.bind(obj); // functionName.bind(Object)
+console.log(bound(1,2,3));
