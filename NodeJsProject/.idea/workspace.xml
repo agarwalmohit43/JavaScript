@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="one.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="one.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="248" selection-end-column="7" />
+            <state relative-caret-position="185">
+              <caret line="289" column="2" lean-forward="false" selection-start-line="289" selection-start-column="2" selection-end-line="289" selection-end-column="2" />
               <folding>
                 <element signature="n#!!block;n#objects#0" expanded="false" />
                 <element signature="n#!!block;n#arrays#0" expanded="false" />
@@ -52,11 +52,22 @@
                 <element signature="n#!!block;n#dates#0" expanded="false" />
                 <element signature="n#!!block;n#numbers#0" expanded="false" />
                 <element signature="n#!!block;n#setTime#0" expanded="false" />
-                <element signature="e#3781#3814#0" expanded="false" />
-                <element signature="e#3890#3923#0" expanded="false" />
+                <element signature="e#3961#3994#0" expanded="false" />
+                <element signature="e#4070#4103#0" expanded="false" />
                 <element signature="n#!!block;n#json#0" expanded="false" />
                 <element signature="n#!!block;n#checkies#0" expanded="false" />
+                <element signature="n#!!block;n#checkies2#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraysFunctions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,7 +75,7 @@
       <file leaf-file-name="ObjectsInJavaScript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
+            <state relative-caret-position="-256">
               <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
               <folding />
             </state>
@@ -103,6 +114,7 @@
         <option value="$PROJECT_DIR$/Javascript Check/check.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js" />
+        <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js" />
       </list>
     </option>
   </component>
@@ -193,7 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.one.js">
+  <component name="RunManager" selected="Node.js.ArraysFunctions.js">
+    <configuration name="ArraysFunctions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ArraysFunctions.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <configuration name="ObjectsInJavaScript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ObjectsInJavaScript.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
@@ -256,30 +269,21 @@
     <configuration name="check.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="check.js" working-dir="$PROJECT_DIR$/Javascript Check" />
     <configuration name="htmlServer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="htmlServer.js" working-dir="$PROJECT_DIR$/samples" />
     <configuration name="one.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="one.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
-    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.htmlServer.js" />
-      <item index="2" class="java.lang.String" itemvalue="npm.start" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.check.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.one.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.check.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.one.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.ArraysFunctions.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.one.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.check.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.htmlServer.js" />
-        <item index="4" class="java.lang.String" itemvalue="npm.start" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ArraysFunctions.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.one.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.check.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.htmlServer.js" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +302,12 @@
       <workItem from="1496126886940" duration="617000" />
       <workItem from="1496129374500" duration="94000" />
       <workItem from="1504188389224" duration="31340000" />
-      <workItem from="1504324702277" duration="2164000" />
+      <workItem from="1504324702277" duration="14760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40835000" />
+    <option name="totallyTimeSpent" value="53431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +326,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22203948" sideWeight="0.50298953" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30921054" sideWeight="0.49701047" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30921054" sideWeight="0.49701047" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16617647" sideWeight="0.5081301" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -345,7 +349,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -393,10 +397,11 @@
             <element signature="n#!!block;n#dates#0" expanded="false" />
             <element signature="n#!!block;n#numbers#0" expanded="false" />
             <element signature="n#!!block;n#setTime#0" expanded="false" />
-            <element signature="e#3781#3814#0" expanded="false" />
-            <element signature="e#3890#3923#0" expanded="false" />
+            <element signature="e#3961#3994#0" expanded="false" />
+            <element signature="e#4070#4103#0" expanded="false" />
             <element signature="n#!!block;n#json#0" expanded="false" />
             <element signature="n#!!block;n#checkies#0" expanded="false" />
+            <element signature="n#!!block;n#checkies2#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -548,18 +553,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="248" selection-end-column="7" />
+        <state relative-caret-position="185">
+          <caret line="289" column="2" lean-forward="false" selection-start-line="289" selection-start-column="2" selection-end-line="289" selection-end-column="2" />
           <folding>
             <element signature="n#!!block;n#objects#0" expanded="false" />
             <element signature="n#!!block;n#arrays#0" expanded="false" />
@@ -567,11 +564,28 @@
             <element signature="n#!!block;n#dates#0" expanded="false" />
             <element signature="n#!!block;n#numbers#0" expanded="false" />
             <element signature="n#!!block;n#setTime#0" expanded="false" />
-            <element signature="e#3781#3814#0" expanded="false" />
-            <element signature="e#3890#3923#0" expanded="false" />
+            <element signature="e#3961#3994#0" expanded="false" />
+            <element signature="e#4070#4103#0" expanded="false" />
             <element signature="n#!!block;n#json#0" expanded="false" />
             <element signature="n#!!block;n#checkies#0" expanded="false" />
+            <element signature="n#!!block;n#checkies2#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>
