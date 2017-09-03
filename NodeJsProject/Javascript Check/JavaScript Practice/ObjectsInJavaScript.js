@@ -17,7 +17,7 @@ person.prototype.makesound = function () {
     return this.name+" makes sound like "+this.sound;
 }
 
-console.log(person1.makesound());
+console.log("Make Sound: "+person1.makesound());
 console.log(person);
 
 for(var prop in person1)
@@ -105,12 +105,12 @@ console.log(check instanceof Animal);
 
 Animal.prototype.sound = "animal sounds";
 Wolf.prototype.sound = "wolf sounds";
-console.log(check.sound);
+console.log("Sound check: "+check.sound);
 
 function extend(Child,Parent) {
     var Temp = function () {};
 
-    Temp.prototype = Parent.prototype;
+    Temp.prototype = Parent.prototype;//it should be (new Parent()) instead of (Parent.prototype;)
     Child.prototype = new Temp();
     Child.prototype.constructor = Child;
 }
@@ -121,8 +121,7 @@ function dog() {
 
 extend(dog,Animal);
 var dog1=new dog();
-console.log("Dog: "+dog1.name);
-
+console.log("Dog: "+dog1.toString());//when using new Parent then we can inherit toString from the animal class
 
 /*
 class Point{

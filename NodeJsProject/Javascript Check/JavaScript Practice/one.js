@@ -353,17 +353,105 @@ console.log(sum);
 //     setTimeout(console.log.bind(i), 10);
 // }
 
-var obj ={num:2};
+function callApplyBind() {
+    var obj ={num:2};
 
-var addTo = function (x,y,z) {
-    //console.log(x+" "+y+" "+z);
-    return this.num + x+y+z;
+    var addTo = function (x,y,z) {
+        //console.log(x+" "+y+" "+z);
+        return this.num + x+y+z;
+    }
+
+    console.log(addTo.call(obj,'M',5,5)); // functionName.call(object, functionArguments)
+
+    var arr = [1,2,3];
+    console.log(addTo.apply(obj,arr)); // functionName.apply(object, array)
+
+    var bound = addTo.bind(obj); // functionName.bind(Object)
+    console.log(bound(1,2,3));
+
+
+
+    var abc = function () {
+        this.name="Mohit";
+        this.talk = function () {
+            return this.name;
+        }
+    }
+
+    var p =new abc();
+    console.log(p.talk());
+
 }
 
-console.log(addTo.call(obj,'M',5,5)); // functionName.call(object, functionArguments)
+// var emp = {
+//     name: 'Mohit',
+//     salary: 50000,
+//     bonusSalary : function (x) {
+//         this.salary += x;
+//         console.log(this.name+" got bonus of Rs."+x+" total balance: "+this.salary);
+//     }
+// }
+//
+// var emp2 ={name: "Kumar",salary: 20000};
+// var giveBonus = emp.bonusSalary.bind(emp2,5000);
+// giveBonus();
 
-var arr = [1,2,3];
-console.log(addTo.apply(obj,arr)); // functionName.apply(object, array)
+function promises() {
+    
+    function first() {
+        var makePromise = new Promise(function (resolve,reject) {
+            // if room cleared
+            var Cleaned = true;
+            if(Cleaned)
+            {
+                resolve('Cleaned the Room');
+            }else{
+                reject('Not Cleaned');
+            }
+        })
 
-var bound = addTo.bind(obj); // functionName.bind(Object)
-console.log(bound(1,2,3));
+        makePromise.then(function (fromResolve) {
+            console.log("Done "+fromResolve);
+        }).catch(function (fromReject) {
+            console.log("Not Done "+fromReject);
+        })
+    }
+    
+   function second() {
+       var cleanRoom = function () {
+           return new Promise(function (resolve,reject) {
+               var Cleaned = true;
+               if(Cleaned)
+               {
+                   resolve('Cleaned the Room');
+               }else{
+                   reject('Not Cleaned');
+               }
+           });
+       };
+
+       var garbageThrown = function (message) {
+           return new Promise(function (resolve,reject) {
+               resolve(message+" Grabage Thrown!");
+           });
+       };
+
+       cleanRoom().then(function (result) {
+           return garbageThrown(result);
+       }).then(function (result) {
+           console.log("Finished: " +result);
+       }).catch(function (result) {
+           console.log("Error: "+result);
+       })
+
+       // Promise.race([cleanRoom(),garbageThrown()]).then(function (result) { //race if any is finished and all for all to finish
+       //     console.log("Finished "+result);
+       // }).catch(function (result) {
+       //     console.log("Error : " +result);
+       // });
+   }
+
+   // first();
+    second();
+}
+promises();

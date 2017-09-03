@@ -25,7 +25,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1498653417762" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 28-06-2017. ...*/" />
+                <marker date="1498653417762" expanded="true" signature="87:107" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,21 +46,37 @@
       <file leaf-file-name="one.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="367" column="56" lean-forward="false" selection-start-line="367" selection-start-column="56" selection-end-line="367" selection-end-column="56" />
+            <state relative-caret-position="67">
+              <caret line="422" column="33" lean-forward="false" selection-start-line="422" selection-start-column="33" selection-end-line="422" selection-end-column="33" />
               <folding>
-                <element signature="n#!!block;n#objects#0" expanded="false" />
-                <element signature="n#!!block;n#arrays#0" expanded="false" />
-                <element signature="n#!!block;n#strings#0" expanded="false" />
-                <element signature="n#!!block;n#dates#0" expanded="false" />
-                <element signature="n#!!block;n#numbers#0" expanded="false" />
-                <element signature="n#!!block;n#setTime#0" expanded="false" />
-                <element signature="e#3961#3994#0" expanded="false" />
-                <element signature="e#4070#4103#0" expanded="false" />
-                <element signature="n#!!block;n#json#0" expanded="false" />
-                <element signature="n#!!block;n#checkies#0" expanded="false" />
-                <element signature="n#!!block;n#checkies2#0" expanded="false" />
-                <element signature="n#!!block;n#interviews#0" expanded="false" />
+                <element signature="n#!!block;n#first#0;n#!!block;n#promises#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/two.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+              <folding>
+                <marker date="1504429728148" expanded="false" signature="23:573" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="50:186" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="118:180" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="214:252" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="278:318" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="598:1259" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="634:799" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="823:959" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="891:953" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="980:1014" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="1037:1074" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="1261:1357" ph="//..." />
+                <marker date="1504429728148" expanded="false" signature="1387:1857" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="1403:1726" ph="{&quot;name&quot;: &quot;&quot;...}" />
+                <marker date="1504429728148" expanded="true" signature="1469:1552" ph="{...}" />
+                <marker date="1504429728148" expanded="true" signature="1588:1717" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,8 +86,10 @@
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-              <folding />
+              <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <marker date="1504355802211" expanded="true" signature="137:2279" ph="//..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +99,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-              <folding />
+              <folding>
+                <marker date="1504354374590" expanded="true" signature="95:380" ph="{...}" />
+                <marker date="1504354374590" expanded="true" signature="124:244" ph="{...}" />
+                <marker date="1504354374590" expanded="true" signature="253:333" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +113,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="83">
               <caret line="10" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="28" />
-              <folding />
+              <folding>
+                <marker date="1504356598664" expanded="true" signature="115:762" ph="{...}" />
+                <marker date="1504356598664" expanded="true" signature="160:760" ph="{...}" />
+                <marker date="1504356598664" expanded="true" signature="170:247" ph="//..." />
+                <marker date="1504356598664" expanded="true" signature="283:587" ph="{...}" />
+                <marker date="1504356598664" expanded="true" signature="298:486" ph="//..." />
+                <marker date="1504356598664" expanded="true" signature="616:646" ph="{...}" />
+                <marker date="1504356598664" expanded="true" signature="659:753" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,8 +130,15 @@
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/CountMaxOccurenceCharacterAndRemoveRepeated.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <marker date="1504356989409" expanded="true" signature="153:526" ph="{...}" />
+                <marker date="1504356989409" expanded="true" signature="214:443" ph="{...}" />
+                <marker date="1504356989409" expanded="true" signature="251:315" ph="{...}" />
+                <marker date="1504356989409" expanded="true" signature="344:374" ph="{...}" />
+                <marker date="1504356989409" expanded="true" signature="387:437" ph="{...}" />
+                <marker date="1504356989409" expanded="true" signature="471:524" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,9 +146,27 @@
       <file leaf-file-name="ObjectsInJavaScript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-              <folding />
+            <state relative-caret-position="152">
+              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+              <folding>
+                <marker date="1504419271039" expanded="true" signature="22:170" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="76:135" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="316:373" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="833:944" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="869:924" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1094:1345" ph="{&quot;empId&quot;: &quot;&quot;...}" />
+                <marker date="1504419271039" expanded="true" signature="1144:1195" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1218:1343" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1443:1471" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1492:1640" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1792:1901" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1849:1898" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1919:1946" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="1967:1995" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="2507:2716" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="2733:2757" ph="{...}" />
+                <marker date="1504419271039" expanded="true" signature="2912:3121" ph="/*...*/" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,9 +174,19 @@
       <file leaf-file-name="check.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Check/check.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="119">
               <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding />
+              <folding>
+                <marker date="1504262649427" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 23-06-2017. ...*/" />
+                <marker date="1504262649427" expanded="true" signature="224:253" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="257:290" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="348:377" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="381:414" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="459:513" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="592:615" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="729:853" ph="{...}" />
+                <marker date="1504262649427" expanded="true" signature="763:850" ph="//..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,11 +211,12 @@
         <option value="$PROJECT_DIR$/samples/index.html" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.html" />
         <option value="$PROJECT_DIR$/Javascript Check/check.js" />
-        <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/CompareLoopAndInsert.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/RemoveRepeatedCharacters.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/CountMaxOccurenceCharacter.js" />
+        <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js" />
+        <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/two.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js" />
       </list>
     </option>
@@ -157,10 +226,11 @@
     <package-json value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
+    <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -223,9 +293,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,9 +312,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.one.js">
-    <configuration name="ArraysFunctions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ArraysFunctions.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
-    <configuration name="CompareLoopAndInsert.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CompareLoopAndInsert.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <configuration name="CountMaxOccurenceCharacter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Javascript Check/JavaScript Practice/CountMaxOccurenceCharacterAndRemoveRepeated.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
+    <configuration name="ObjectsInJavaScript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ObjectsInJavaScript.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <configuration name="RemoveRepeatedCharacters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RemoveRepeatedCharacters.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
@@ -303,21 +374,22 @@
       <method />
     </configuration>
     <configuration name="one.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="one.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
+    <configuration name="two.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="two.js" working-dir="$PROJECT_DIR$/Javascript Check/JavaScript Practice" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.one.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.ArraysFunctions.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.CompareLoopAndInsert.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveRepeatedCharacters.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.CountMaxOccurenceCharacter.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.RemoveRepeatedCharacters.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.CountMaxOccurenceCharacter.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.two.js" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Node.js.one.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.CountMaxOccurenceCharacter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.RemoveRepeatedCharacters.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.ArraysFunctions.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.CompareLoopAndInsert.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.two.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ObjectsInJavaScript.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.CountMaxOccurenceCharacter.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RemoveRepeatedCharacters.js" />
       </list>
     </recent_temporary>
   </component>
@@ -336,12 +408,12 @@
       <workItem from="1496126886940" duration="617000" />
       <workItem from="1496129374500" duration="94000" />
       <workItem from="1504188389224" duration="31340000" />
-      <workItem from="1504324702277" duration="21733000" />
+      <workItem from="1504324702277" duration="31398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60404000" />
+    <option name="totallyTimeSpent" value="70069000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,7 +432,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22203948" sideWeight="0.50298953" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25164473" sideWeight="0.49701047" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25164473" sideWeight="0.49701047" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16617647" sideWeight="0.5081301" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -392,7 +464,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1498653417762" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 28-06-2017. ...*/" />
+            <marker date="1498653417762" expanded="true" signature="87:107" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -408,7 +483,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2346">
           <caret line="138" column="31" lean-forward="false" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1504419271039" expanded="true" signature="22:170" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="76:135" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="316:373" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="833:944" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="869:924" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1094:1345" ph="{&quot;empId&quot;: &quot;&quot;...}" />
+            <marker date="1504419271039" expanded="true" signature="1144:1195" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1218:1343" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1443:1471" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1492:1640" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1792:1901" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1849:1898" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1919:1946" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1967:1995" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2507:2716" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2733:2757" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2912:3121" ph="/*...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -416,7 +509,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
+          <folding>
+            <marker date="1504262649427" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 23-06-2017. ...*/" />
+            <marker date="1504262649427" expanded="true" signature="224:253" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="257:290" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="348:377" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="381:414" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="459:513" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="592:615" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="729:853" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="763:850" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -425,18 +528,7 @@
         <state relative-caret-position="1088">
           <caret line="235" column="5" lean-forward="false" selection-start-line="235" selection-start-column="5" selection-end-line="235" selection-end-column="5" />
           <folding>
-            <element signature="n#!!block;n#objects#0" expanded="false" />
-            <element signature="n#!!block;n#arrays#0" expanded="false" />
-            <element signature="n#!!block;n#strings#0" expanded="false" />
-            <element signature="n#!!block;n#dates#0" expanded="false" />
-            <element signature="n#!!block;n#numbers#0" expanded="false" />
-            <element signature="n#!!block;n#setTime#0" expanded="false" />
-            <element signature="e#3961#3994#0" expanded="false" />
-            <element signature="e#4070#4103#0" expanded="false" />
-            <element signature="n#!!block;n#json#0" expanded="false" />
-            <element signature="n#!!block;n#checkies#0" expanded="false" />
-            <element signature="n#!!block;n#checkies2#0" expanded="false" />
-            <element signature="n#!!block;n#interviews#0" expanded="false" />
+            <element signature="n#!!block;n#first#0;n#!!block;n#promises#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -568,7 +660,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1498653417762" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 28-06-2017. ...*/" />
+            <marker date="1498653417762" expanded="true" signature="87:107" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -580,27 +675,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Check/check.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/CompareLoopAndInsert.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
+          <folding>
+            <marker date="1504354374590" expanded="true" signature="95:380" ph="{...}" />
+            <marker date="1504354374590" expanded="true" signature="124:244" ph="{...}" />
+            <marker date="1504354374590" expanded="true" signature="253:333" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ArraysFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <marker date="1504355802211" expanded="true" signature="137:2279" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -608,43 +701,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
           <caret line="10" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="28" />
-          <folding />
+          <folding>
+            <marker date="1504356598664" expanded="true" signature="115:762" ph="{...}" />
+            <marker date="1504356598664" expanded="true" signature="160:760" ph="{...}" />
+            <marker date="1504356598664" expanded="true" signature="170:247" ph="//..." />
+            <marker date="1504356598664" expanded="true" signature="283:587" ph="{...}" />
+            <marker date="1504356598664" expanded="true" signature="298:486" ph="//..." />
+            <marker date="1504356598664" expanded="true" signature="616:646" ph="{...}" />
+            <marker date="1504356598664" expanded="true" signature="659:753" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/CountMaxOccurenceCharacterAndRemoveRepeated.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1504356989409" expanded="true" signature="153:526" ph="{...}" />
+            <marker date="1504356989409" expanded="true" signature="214:443" ph="{...}" />
+            <marker date="1504356989409" expanded="true" signature="251:315" ph="{...}" />
+            <marker date="1504356989409" expanded="true" signature="344:374" ph="{...}" />
+            <marker date="1504356989409" expanded="true" signature="387:437" ph="{...}" />
+            <marker date="1504356989409" expanded="true" signature="471:524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Check/check.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <marker date="1504262649427" expanded="true" signature="0:50" ph="/** Created by MOHIT AGARWAL on 23-06-2017. ...*/" />
+            <marker date="1504262649427" expanded="true" signature="224:253" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="257:290" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="348:377" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="381:414" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="459:513" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="592:615" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="729:853" ph="{...}" />
+            <marker date="1504262649427" expanded="true" signature="763:850" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/ObjectsInJavaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <marker date="1504419271039" expanded="true" signature="22:170" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="76:135" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="316:373" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="833:944" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="869:924" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1094:1345" ph="{&quot;empId&quot;: &quot;&quot;...}" />
+            <marker date="1504419271039" expanded="true" signature="1144:1195" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1218:1343" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1443:1471" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1492:1640" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1792:1901" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1849:1898" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1919:1946" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="1967:1995" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2507:2716" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2733:2757" ph="{...}" />
+            <marker date="1504419271039" expanded="true" signature="2912:3121" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/two.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="57" column="35" lean-forward="false" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+          <folding>
+            <marker date="1504429728148" expanded="false" signature="23:573" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="50:186" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="118:180" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="214:252" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="278:318" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="598:1259" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="634:799" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="823:959" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="891:953" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="980:1014" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="1037:1074" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="1261:1357" ph="//..." />
+            <marker date="1504429728148" expanded="false" signature="1387:1857" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="1403:1726" ph="{&quot;name&quot;: &quot;&quot;...}" />
+            <marker date="1504429728148" expanded="true" signature="1469:1552" ph="{...}" />
+            <marker date="1504429728148" expanded="true" signature="1588:1717" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="367" column="56" lean-forward="false" selection-start-line="367" selection-start-column="56" selection-end-line="367" selection-end-column="56" />
+        <state relative-caret-position="67">
+          <caret line="422" column="33" lean-forward="false" selection-start-line="422" selection-start-column="33" selection-end-line="422" selection-end-column="33" />
           <folding>
-            <element signature="n#!!block;n#objects#0" expanded="false" />
-            <element signature="n#!!block;n#arrays#0" expanded="false" />
-            <element signature="n#!!block;n#strings#0" expanded="false" />
-            <element signature="n#!!block;n#dates#0" expanded="false" />
-            <element signature="n#!!block;n#numbers#0" expanded="false" />
-            <element signature="n#!!block;n#setTime#0" expanded="false" />
-            <element signature="e#3961#3994#0" expanded="false" />
-            <element signature="e#4070#4103#0" expanded="false" />
-            <element signature="n#!!block;n#json#0" expanded="false" />
-            <element signature="n#!!block;n#checkies#0" expanded="false" />
-            <element signature="n#!!block;n#checkies2#0" expanded="false" />
-            <element signature="n#!!block;n#interviews#0" expanded="false" />
+            <element signature="n#!!block;n#first#0;n#!!block;n#promises#0" expanded="false" />
           </folding>
         </state>
       </provider>
