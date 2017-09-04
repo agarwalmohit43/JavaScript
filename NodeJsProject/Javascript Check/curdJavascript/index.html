@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curd</title>
+    <link rel="stylesheet" href="external.css"/>
+    <script src="external.js" ></script>
+</head>
+<body>
+   <div>
+       <form method="#" onsubmit="formData();return false;">
+           <p>
+               Emp ID: <input type="text" id="empId" required/>
+           </p>
+           <p>
+               Emp Name: <input type="text" id="empName" required />
+           </p>
+           <p>
+               <!--<button type="button">Submit</button>-->
+               <!--<input type="submit" value="Submit">-->
+                <button id="empSubmit" style="visibility: visible">Submit</button>
+           </p>
+       </form>
+      <p>
+          <button id="empUpdate" style="visibility: hidden" onclick="updateFormData()" >Update</button>
+          <button id="empUpdateCancel" style="visibility: hidden" onclick="cancel()" >Cancel</button>
+      </p>
+   </div>
+    <div>
+        <table id="empTable">
+            <thead>
+                <tr>
+                    <th>
+                        EmpId
+                    </th>
+                    <th>
+                        EmpName
+                    </th>
+                    <th>
+                        EmpAction
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>
