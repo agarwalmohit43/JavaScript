@@ -20,25 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="374">
+              <caret line="27" column="105" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="27" selection-end-column="105" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#1;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="external.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="external.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/external.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="89" column="48" lean-forward="false" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
+            <state relative-caret-position="-510">
+              <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -87,6 +86,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\MOHIT AGARWAL\WebstormProjects\NodeJsProject\Javascript Check\curdJavascript</dir>
+    </dirStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -105,8 +109,8 @@
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/two.js" />
         <option value="$PROJECT_DIR$/Javascript Check/JavaScript Practice/one.js" />
         <option value="$PROJECT_DIR$/Javascript Check/curdJavascript/external.css" />
-        <option value="$PROJECT_DIR$/Javascript Check/curdJavascript/index.html" />
         <option value="$PROJECT_DIR$/Javascript Check/curdJavascript/external.js" />
+        <option value="$PROJECT_DIR$/Javascript Check/curdJavascript/index.html" />
       </list>
     </option>
   </component>
@@ -303,12 +307,12 @@
       <workItem from="1496126886940" duration="617000" />
       <workItem from="1496129374500" duration="94000" />
       <workItem from="1504188389224" duration="31340000" />
-      <workItem from="1504324702277" duration="46304000" />
+      <workItem from="1504324702277" duration="48599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84975000" />
+    <option name="totallyTimeSpent" value="87270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,6 +325,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.49186993" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -708,23 +713,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/index.html">
+    <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/external.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#1;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-510">
+          <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/external.js">
+    <entry file="file://$PROJECT_DIR$/Javascript Check/curdJavascript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="89" column="48" lean-forward="false" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="374">
+          <caret line="27" column="105" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="27" selection-end-column="105" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#p#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
