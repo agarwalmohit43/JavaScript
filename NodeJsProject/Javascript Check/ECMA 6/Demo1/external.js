@@ -126,7 +126,7 @@ window.onload = function () {
 
     }
 
-    function classess() {
+    function classessAndInheritance() {
 
         class Person{
 
@@ -161,7 +161,53 @@ window.onload = function () {
 
 
     }
-    classess()
+
+    function generators() {
+
+        function* fruits() {
+            yield "apples";
+            yield "Banana";
+            console.log("Done");
+            yield "Hurray";
+        }
+
+        var check = fruits();
+        console.log(check.next());//{value: "apples", done: false} false because more lines are there in function
+        console.log(check.next().value);//if we want only values then check.next().value
+        console.log(check.next().value)
+    //    if one more next then undefined because nothing to return
+
+        function* getNextId() {
+            let id = 0;
+            while (id<5)
+                yield id++;
+        }
+
+        let id= getNextId();
+        console.log(id.next().value);
+        console.log(id.next().value);
+        console.log(id.next().value);
+        console.log(id.next().value);
+        console.log(id.next().value);
+        console.log(id.next().value);// end of condition
+    }
+
+    function init() {
+        constConcept();
+        letCheck();
+        defaultParameter();
+        spread();
+        templateString();
+        objectLitteralEnhacement();
+        newStringMethods();
+        arrowFunction();
+        collection();
+        classessAndInheritance();
+        generators()
+    }
+
+    // init();
 }
+
 
 

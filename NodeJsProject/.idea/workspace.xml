@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/Javascript Check/ECMA 6/Demo1/external.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
-              <caret line="159" column="42" lean-forward="false" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
+              <caret line="209" column="1" lean-forward="true" selection-start-line="209" selection-start-column="1" selection-end-line="209" selection-end-column="1" />
               <folding>
                 <element signature="e#58#433#0" expanded="false" />
                 <element signature="e#459#665#0" expanded="false" />
@@ -45,6 +45,8 @@
                 <element signature="e#1876#2242#0" expanded="false" />
                 <element signature="e#2273#2958#0" expanded="false" />
                 <element signature="e#2986#3287#0" expanded="false" />
+                <element signature="e#3327#4115#0" expanded="false" />
+                <element signature="e#4143#5046#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -296,12 +298,12 @@
       <workItem from="1504595490775" duration="4288000" />
       <workItem from="1505287546274" duration="59000" />
       <workItem from="1505550290413" duration="1056000" />
-      <workItem from="1505556578887" duration="6384000" />
+      <workItem from="1505556578887" duration="7235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104902000" />
+    <option name="totallyTimeSpent" value="105753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -727,7 +729,7 @@
     <entry file="file://$PROJECT_DIR$/Javascript Check/ECMA 6/Demo1/external.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
-          <caret line="159" column="42" lean-forward="false" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
+          <caret line="209" column="1" lean-forward="true" selection-start-line="209" selection-start-column="1" selection-end-line="209" selection-end-column="1" />
           <folding>
             <element signature="e#58#433#0" expanded="false" />
             <element signature="e#459#665#0" expanded="false" />
@@ -738,6 +740,8 @@
             <element signature="e#1876#2242#0" expanded="false" />
             <element signature="e#2273#2958#0" expanded="false" />
             <element signature="e#2986#3287#0" expanded="false" />
+            <element signature="e#3327#4115#0" expanded="false" />
+            <element signature="e#4143#5046#0" expanded="false" />
           </folding>
         </state>
       </provider>
