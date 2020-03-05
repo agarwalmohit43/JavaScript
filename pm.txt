@@ -1,6 +1,7 @@
 test
 test2
 test3
+<<<<<<< Updated upstream
 
 
 
@@ -8,3 +9,6 @@ test3
 
 
 M
+=======
+P
+>>>>>>> Stashed changes
