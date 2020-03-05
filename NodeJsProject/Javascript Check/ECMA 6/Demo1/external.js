@@ -130,7 +130,6 @@ window.onload = function () {
 
         class Person{
 
-
             constructor(name,age){
                 this.name=name;
                 this.age=age;
@@ -193,17 +192,17 @@ window.onload = function () {
     }
 
     function init() {
-        constConcept();
-        letCheck();
-        defaultParameter();
-        spread();
-        templateString();
-        objectLitteralEnhacement();
-        newStringMethods();
-        arrowFunction();
-        collection();
+        // constConcept();
+        // letCheck();
+        // defaultParameter();
+        // spread();
+        // templateString();
+        // objectLitteralEnhacement();
+        // newStringMethods();
+        // arrowFunction();
+        // collection();
         classessAndInheritance();
-        generators()
+        // generators()
     }
 
     // init();
