@@ -57,16 +57,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/checkDebug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/function/callback.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/function/expressionFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/function/functionTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/testCases.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/unitTesting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/unitTesting/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeJsProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NodeJsProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +77,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -122,7 +117,7 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\function" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.functionTest.js">
+  <component name="RunManager" selected="Node.js.test.js (1)">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -138,7 +133,7 @@
     <configuration name="functionTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/function/functionTest.js" working-dir="$PROJECT_DIR$/Prac2.0">
       <method v="2" />
     </configuration>
-    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/untitled">
+    <configuration name="test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" working-dir="$PROJECT_DIR$/Prac2.0/ObjectInJS">
       <method v="2" />
     </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/test.js" working-dir="$PROJECT_DIR$/Prac2.0">
@@ -154,19 +149,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.server.js" />
       <item itemvalue="Node.js.test.js" />
       <item itemvalue="Node.js.functionTest.js" />
       <item itemvalue="Node.js.expressionFunction.js" />
       <item itemvalue="Node.js.callback.js" />
+      <item itemvalue="Node.js.test.js (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.test.js (1)" />
         <item itemvalue="Node.js.functionTest.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.callback.js" />
         <item itemvalue="Node.js.expressionFunction.js" />
-        <item itemvalue="Node.js.server.js" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +198,8 @@
       <workItem from="1588445192386" duration="1398000" />
       <workItem from="1588510554561" duration="8899000" />
       <workItem from="1588528655099" duration="2494000" />
-      <workItem from="1588532303823" duration="333000" />
+      <workItem from="1588532303823" duration="6778000" />
+      <workItem from="1588612393945" duration="6241000" />
     </task>
     <servers />
   </component>
@@ -243,22 +239,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="181" key="GridCell.Tab.0.bottom" timestamp="1588532529198">
+    <state width="1317" height="181" key="GridCell.Tab.0.bottom" timestamp="1588619171342">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="181" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588532529198" />
-    <state width="1317" height="181" key="GridCell.Tab.0.center" timestamp="1588532529198">
+    <state width="1317" height="181" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588619171342" />
+    <state width="1317" height="181" key="GridCell.Tab.0.center" timestamp="1588619171342">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="181" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588532529198" />
-    <state width="1317" height="181" key="GridCell.Tab.0.left" timestamp="1588532529198">
+    <state width="1317" height="181" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588619171342" />
+    <state width="1317" height="181" key="GridCell.Tab.0.left" timestamp="1588619171342">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="181" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588532529198" />
-    <state width="1317" height="181" key="GridCell.Tab.0.right" timestamp="1588532529198">
+    <state width="1317" height="181" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588619171342" />
+    <state width="1317" height="181" key="GridCell.Tab.0.right" timestamp="1588619171342">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="181" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588532529198" />
+    <state width="1317" height="181" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588619171342" />
     <state width="1317" height="223" key="GridCell.Tab.1.bottom" timestamp="1588531695495">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -307,10 +303,14 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1317" height="223" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1588531695496" />
-    <state x="181" y="6" key="SettingsEditor" timestamp="1588532629404">
+    <state x="181" y="6" key="SettingsEditor" timestamp="1588563354215">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1588532629404" />
+    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1588563354215" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1588617751243">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1588617751243" />
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588518474410">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
