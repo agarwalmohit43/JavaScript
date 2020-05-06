@@ -10,4 +10,4 @@ function sayHi() {
 
 user.sayHi = sayHi;
 user.sayHi();
-// sayHi(); in strict mode, this is not global reference is needed
+// sayHi(); in strict mode, this is not global so reference is needed

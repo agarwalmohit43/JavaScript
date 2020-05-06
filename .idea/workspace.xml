@@ -57,11 +57,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Symbol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/function/functionTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/function/functionTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +199,7 @@
       <workItem from="1588612393945" duration="8173000" />
       <workItem from="1588655892044" duration="596000" />
       <workItem from="1588790615970" duration="5593000" />
-      <workItem from="1588799840728" duration="88000" />
+      <workItem from="1588799840728" duration="192000" />
     </task>
     <servers />
   </component>
