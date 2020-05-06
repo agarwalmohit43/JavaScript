@@ -12,7 +12,7 @@ function isEligible(age) {
 let sum;
 
 for(let i = 1 ; i < 50;i++){
-   if(i%2 == 0){
+   if(i%2 === 0){
        sum = function(text="test"){
            console.log(text+i);
        };
@@ -24,3 +24,8 @@ for(let i = 1 ; i < 50;i++){
    // sum();
 }
 
+
+let testJS = () => 1000;
+
+console.log(typeof testJS());
+console.log(typeof testJS);
