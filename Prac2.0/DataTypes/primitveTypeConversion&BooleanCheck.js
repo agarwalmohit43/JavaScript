@@ -1,5 +1,6 @@
 console.log(typeof null);
 console.log(typeof undefined);
+console.log(typeof 111111111111n);
 
 
 console.log(Boolean("Test"));

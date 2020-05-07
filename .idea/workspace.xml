@@ -57,7 +57,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change beforePath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/symbolconversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/thisKeyword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/Symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/DataTypes/primitveTypeConversion&amp;BooleanCheck.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/testCases.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Constructor, operator -new/newKeyword.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/thisKeyword.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,33 +113,35 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\basic" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\coversion, symbol, this" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\function" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\function" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.thisKeyword.js">
+  <component name="RunManager" selected="Node.js.primitveTypeConversion&amp;BooleanCheck.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Symbol.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Symbol.js" working-dir="$PROJECT_DIR$/Prac2.0">
-      <method v="2" />
-    </configuration>
     <configuration name="expressionFunction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/function/expressionFunction.js" working-dir="$PROJECT_DIR$/Prac2.0/function">
       <method v="2" />
     </configuration>
-    <configuration name="functionTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/function/functionTest.js" working-dir="$PROJECT_DIR$/Prac2.0">
+    <configuration name="newKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Constructor, operator -new/newKeyword.js" working-dir="$PROJECT_DIR$/Prac2.0/Constructor, operator -new">
       <method v="2" />
     </configuration>
-    <configuration name="test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" working-dir="$PROJECT_DIR$/Prac2.0/ObjectInJS">
+    <configuration name="primitveTypeConversion&amp;BooleanCheck.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/DataTypes/primitveTypeConversion&amp;BooleanCheck.js" working-dir="$PROJECT_DIR$/Prac2.0/DataTypes">
       <method v="2" />
     </configuration>
-    <configuration name="thisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/thisKeyword.js" working-dir="$PROJECT_DIR$/Prac2.0">
+    <configuration name="symbolconversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/symbolconversion.js" working-dir="$PROJECT_DIR$/Prac2.0">
+      <method v="2" />
+    </configuration>
+    <configuration name="thisKeyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/thisKeyword.js" working-dir="$PROJECT_DIR$/Prac2.0">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -146,19 +154,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Symbol.js" />
       <item itemvalue="Node.js.expressionFunction.js" />
-      <item itemvalue="Node.js.functionTest.js" />
-      <item itemvalue="Node.js.test.js (1)" />
       <item itemvalue="Node.js.thisKeyword.js" />
+      <item itemvalue="Node.js.symbolconversion.js" />
+      <item itemvalue="Node.js.primitveTypeConversion&amp;BooleanCheck.js" />
+      <item itemvalue="Node.js.newKeyword.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.primitveTypeConversion&amp;BooleanCheck.js" />
+        <item itemvalue="Node.js.newKeyword.js" />
+        <item itemvalue="Node.js.symbolconversion.js" />
         <item itemvalue="Node.js.thisKeyword.js" />
         <item itemvalue="Node.js.expressionFunction.js" />
-        <item itemvalue="Node.js.functionTest.js" />
-        <item itemvalue="Node.js.Symbol.js" />
-        <item itemvalue="Node.js.test.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +207,9 @@
       <workItem from="1588612393945" duration="8173000" />
       <workItem from="1588655892044" duration="596000" />
       <workItem from="1588790615970" duration="5593000" />
-      <workItem from="1588799840728" duration="192000" />
+      <workItem from="1588799840728" duration="327000" />
+      <workItem from="1588828123860" duration="643000" />
+      <workItem from="1588872149375" duration="9470000" />
     </task>
     <servers />
   </component>
@@ -247,70 +257,70 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom" timestamp="1588799821103">
+    <state width="1317" height="145" key="GridCell.Tab.0.bottom" timestamp="1588881665566">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.0.center" timestamp="1588799821103">
+    <state width="1317" height="145" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588881665566" />
+    <state width="1317" height="145" key="GridCell.Tab.0.center" timestamp="1588881665565">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.0.left" timestamp="1588799821103">
+    <state width="1317" height="145" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1588881665565" />
+    <state width="1317" height="145" key="GridCell.Tab.0.left" timestamp="1588881665565">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.0.right" timestamp="1588799821103">
+    <state width="1317" height="145" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1588881665565" />
+    <state width="1317" height="145" key="GridCell.Tab.0.right" timestamp="1588881665565">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1588799821104">
+    <state width="1317" height="145" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1588881665565" />
+    <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.1.center" timestamp="1588799821103">
+    <state width="1317" height="215" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.1.center" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.1.left" timestamp="1588799821103">
+    <state width="1317" height="215" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.1.left" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.1.right" timestamp="1588799821103">
+    <state width="1317" height="215" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.1.right" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1588799821103" />
-    <state width="1317" height="215" key="GridCell.Tab.2.bottom" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.2.bottom" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.2.center" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.2.center" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.2.left" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.2.left" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.2.right" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.2.right" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.3.bottom" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.3.bottom" timestamp="1588876417099">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.3.center" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1588876417099" />
+    <state width="1317" height="215" key="GridCell.Tab.3.center" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.3.left" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.3.left" timestamp="1588876417098">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
-    <state width="1317" height="215" key="GridCell.Tab.3.right" timestamp="1588799821104">
+    <state width="1317" height="215" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1588876417098" />
+    <state width="1317" height="215" key="GridCell.Tab.3.right" timestamp="1588876417099">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1588799821104" />
+    <state width="1317" height="215" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1588876417099" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1588563354215">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
