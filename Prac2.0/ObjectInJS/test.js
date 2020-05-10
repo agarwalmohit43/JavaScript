@@ -25,6 +25,11 @@ console.log(user["Multi Word"]);
 console.log(typeof user["Two Words"]);
 console.log(user["Test"]);
 
+console.log("key in user");
+for (let propkey in user) {
+    console.log(propkey);
+}
+console.log("key in user");
 /**
  * return object as value
  */
