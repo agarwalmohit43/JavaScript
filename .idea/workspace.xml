@@ -57,15 +57,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Array/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Array/basic2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Array/multidimensionalArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/DataTypes/numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/DataTypes/string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Map/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/iterator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Map/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Map/basic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +117,7 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\function" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.basic.js (1)">
+  <component name="RunManager" selected="Node.js.test.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -164,11 +157,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.basic.js (1)" />
         <item itemvalue="Node.js.iterator.js" />
         <item itemvalue="Node.js.basic2.js" />
         <item itemvalue="Node.js.basic.js" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +207,7 @@
       <workItem from="1588872149375" duration="9838000" />
       <workItem from="1589004258523" duration="10163000" />
       <workItem from="1589030201623" duration="18906000" />
-      <workItem from="1589089650865" duration="471000" />
+      <workItem from="1589089650865" duration="1887000" />
     </task>
     <servers />
   </component>
@@ -262,22 +255,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="231" key="GridCell.Tab.0.bottom" timestamp="1589089952776">
+    <state width="1317" height="231" key="GridCell.Tab.0.bottom" timestamp="1589090885891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="231" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589089952776" />
-    <state width="1317" height="231" key="GridCell.Tab.0.center" timestamp="1589089952775">
+    <state width="1317" height="231" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589090885891" />
+    <state width="1317" height="231" key="GridCell.Tab.0.center" timestamp="1589090885891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="231" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589089952775" />
-    <state width="1317" height="231" key="GridCell.Tab.0.left" timestamp="1589089952775">
+    <state width="1317" height="231" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589090885891" />
+    <state width="1317" height="231" key="GridCell.Tab.0.left" timestamp="1589090885891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="231" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589089952775" />
-    <state width="1317" height="231" key="GridCell.Tab.0.right" timestamp="1589089952776">
+    <state width="1317" height="231" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589090885891" />
+    <state width="1317" height="231" key="GridCell.Tab.0.right" timestamp="1589090885891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="231" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589089952776" />
+    <state width="1317" height="231" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589090885891" />
     <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1589046240298">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

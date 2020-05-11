@@ -21,9 +21,16 @@ map.forEach((val, key, map) => {
 
 console.log("creating a map from plain object");
 let user = {
+    1 : 'test',
     name : "Mohit",
     age : 25,
 };
 
 let userMap = new Map(Object.entries(user));
-console.log(userMap)
+console.log(userMap);
+
+let objFromUserMap = Object.fromEntries(userMap);
+console.log(objFromUserMap);
+for (let prop in objFromUserMap) {
+    console.log(prop)
+}
