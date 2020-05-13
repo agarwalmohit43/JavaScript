@@ -26,7 +26,7 @@ let requiredUser = userLog.find((item, index, arr) => {
 
     // return arr.slice(2);
 });
-console.log(requiredUser.name);
+console.log("index === 2 => " + requiredUser.name);
 
 console.log("filter func")
 let userDetailFilter = userLog.filter(item => item.id >= 3);
