@@ -57,12 +57,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Map&amp;Set/setBasics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Map&amp;Set/weakMap&amp;weakSet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/destructingDemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsParse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsStringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/dateClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/basic2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/basic2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Map/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Map&amp;Set/mapBasics.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,38 +107,39 @@
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../Program Files (x86)/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.eslint.settings.ESLintSettingsPage" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\ObjectInJS" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\basic" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\coversion, symbol, this" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\function" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.destructingDemo.js">
+  <component name="RunManager" selected="Node.js.JSONMethodsParse.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Symbol.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/coversion, symbol, this/Symbol.js" working-dir="$PROJECT_DIR$/Prac2.0/coversion, symbol, this">
+    <configuration name="JSONMethodsParse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsParse.js" working-dir="$PROJECT_DIR$/Prac2.0/ObjectInJS">
       <method v="2" />
     </configuration>
-    <configuration name="basic2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Array/basic2.js" working-dir="$PROJECT_DIR$/Prac2.0/Array">
+    <configuration name="JSONMethodsStringify.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsStringify.js" working-dir="$PROJECT_DIR$/Prac2.0/ObjectInJS">
+      <method v="2" />
+    </configuration>
+    <configuration name="dateClass.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/dateClass.js" working-dir="$PROJECT_DIR$/Prac2.0">
       <method v="2" />
     </configuration>
     <configuration name="destructingDemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/destructingDemo.js" working-dir="$PROJECT_DIR$/Prac2.0">
       <method v="2" />
     </configuration>
     <configuration name="mapBasics.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Map&amp;Set/mapBasics.js" working-dir="$PROJECT_DIR$/Prac2.0/Map&amp;Set">
-      <method v="2" />
-    </configuration>
-    <configuration name="weakMap&amp;weakSet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Map&amp;Set/weakMap&amp;weakSet.js" working-dir="$PROJECT_DIR$/Prac2.0/Map&amp;Set">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -154,18 +153,18 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.mapBasics.js" />
-      <item itemvalue="Node.js.weakMap&amp;weakSet.js" />
-      <item itemvalue="Node.js.Symbol.js" />
-      <item itemvalue="Node.js.basic2.js" />
       <item itemvalue="Node.js.destructingDemo.js" />
+      <item itemvalue="Node.js.dateClass.js" />
+      <item itemvalue="Node.js.JSONMethodsStringify.js" />
+      <item itemvalue="Node.js.JSONMethodsParse.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.JSONMethodsParse.js" />
+        <item itemvalue="Node.js.JSONMethodsStringify.js" />
+        <item itemvalue="Node.js.dateClass.js" />
         <item itemvalue="Node.js.destructingDemo.js" />
         <item itemvalue="Node.js.mapBasics.js" />
-        <item itemvalue="Node.js.basic2.js" />
-        <item itemvalue="Node.js.Symbol.js" />
-        <item itemvalue="Node.js.weakMap&amp;weakSet.js" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,8 @@
       <workItem from="1589263628607" duration="608000" />
       <workItem from="1589303834207" duration="3893000" />
       <workItem from="1589348920002" duration="2814000" />
-      <workItem from="1589393345567" duration="5692000" />
+      <workItem from="1589393345567" duration="5830000" />
+      <workItem from="1589480475444" duration="4536000" />
     </task>
     <servers />
   </component>
@@ -264,22 +264,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="222" key="GridCell.Tab.0.bottom" timestamp="1589399033421">
+    <state width="1317" height="222" key="GridCell.Tab.0.bottom" timestamp="1589485215038">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589399033421" />
-    <state width="1317" height="222" key="GridCell.Tab.0.center" timestamp="1589399033421">
+    <state width="1317" height="222" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589485215038" />
+    <state width="1317" height="222" key="GridCell.Tab.0.center" timestamp="1589485215037">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589399033421" />
-    <state width="1317" height="222" key="GridCell.Tab.0.left" timestamp="1589399033420">
+    <state width="1317" height="222" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589485215037" />
+    <state width="1317" height="222" key="GridCell.Tab.0.left" timestamp="1589485215037">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589399033420" />
-    <state width="1317" height="222" key="GridCell.Tab.0.right" timestamp="1589399033421">
+    <state width="1317" height="222" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589485215037" />
+    <state width="1317" height="222" key="GridCell.Tab.0.right" timestamp="1589485215037">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589399033421" />
+    <state width="1317" height="222" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589485215037" />
     <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1589396755743">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -328,10 +328,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1317" height="215" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1589396755743" />
-    <state x="181" y="6" key="SettingsEditor" timestamp="1588563354215">
+    <state x="181" y="6" key="SettingsEditor" timestamp="1589481129326">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1588563354215" />
+    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1589481129326" />
     <state x="272" y="93" key="Vcs.Push.Dialog.v2" timestamp="1588799873675">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
