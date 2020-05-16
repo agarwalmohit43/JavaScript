@@ -69,11 +69,11 @@ let arr3 = [1,2,3,4,5];
 let test = arr3.reduce((prevNumVal, currNumVal, index, arr) => {
     console.log("prevNumber: " + prevNumVal + ", currentNum: " + currNumVal + ", index: "+index);
     return (prevNumVal + currNumVal);
-   })
+   },0)
 
-console.log(test) // 15
+console.log("reduce1st: " + test) // 15
 
-let result = arr3.reduce((prevNumer,currentNumber) => prevNumer + currentNumber, 0); //0 is the initial value
+let result = arr3.reduce((prevNumber,currentNumber) => prevNumber + currentNumber, 0); //0 is the initial value
 console.log(result) // 15
 let sum = 0;
 let testMap = arr3.map(item => {

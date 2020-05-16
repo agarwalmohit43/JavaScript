@@ -1,0 +1,6 @@
+Closure:
+A closure is a function that remembers its outer variables and can access them.
+Every func in js is closures.
+[[Environment]] property and lexical environments work is great example for it.
+
+
