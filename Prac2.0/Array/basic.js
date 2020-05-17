@@ -22,6 +22,10 @@ console.log(fruit.pop()); // remove the element from the last
 console.log(fruit.shift()) // remove the element from the starting
 console.log(fruit)
 
+let arr = [1,2,3,4];
+console.log(`${arr}`); // 1,2,3,4
+console.log(arr); // [ 1, 2, 3, 4 ]
+
 let testArr = ['Apple'];
 testArr[999] = 'Orange';
 console.log(testArr)

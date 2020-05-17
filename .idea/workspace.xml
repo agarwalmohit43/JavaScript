@@ -57,13 +57,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Rest and Spread.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/study.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decOnObjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding/Partial functionsinding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding/functionBinding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Scheduling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/arrowFunctionRevisited.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/basic2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/basic2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Advance working with function/Rest and Spread.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/Rest and Spread.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/basic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,36 +117,36 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\FunctionBinding" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\Decorator" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\dec1" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\DS" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\ObjectInJS" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\basic" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\coversion, symbol, this" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.basic.js">
+  <component name="RunManager" selected="Node.js.arrowFunctionRevisited.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="List.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/List.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function/DS">
+    <configuration name="Partial functionsinding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding/Partial functionsinding.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding">
       <method v="2" />
     </configuration>
-    <configuration name="Rest and Spread.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/Rest and Spread.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function">
+    <configuration name="arrowFunctionRevisited.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/arrowFunctionRevisited.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function">
       <method v="2" />
     </configuration>
-    <configuration name="basic2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Array/basic2.js" working-dir="$PROJECT_DIR$/Prac2.0/Array">
+    <configuration name="decObjectWithMultipleArguments.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator">
       <method v="2" />
     </configuration>
-    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function">
+    <configuration name="decOnObjects.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decOnObjects.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator">
       <method v="2" />
     </configuration>
-    <configuration name="recursion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" working-dir="$PROJECT_DIR$/Prac2.0">
+    <configuration name="functionBinding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding/functionBinding.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -156,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.recursion.js" />
-      <item itemvalue="Node.js.basic2.js" />
-      <item itemvalue="Node.js.List.js" />
-      <item itemvalue="Node.js.Rest and Spread.js" />
-      <item itemvalue="Node.js.basic.js" />
+      <item itemvalue="Node.js.decOnObjects.js" />
+      <item itemvalue="Node.js.decObjectWithMultipleArguments.js" />
+      <item itemvalue="Node.js.functionBinding.js" />
+      <item itemvalue="Node.js.Partial functionsinding.js" />
+      <item itemvalue="Node.js.arrowFunctionRevisited.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.basic.js" />
-        <item itemvalue="Node.js.Rest and Spread.js" />
-        <item itemvalue="Node.js.basic2.js" />
-        <item itemvalue="Node.js.List.js" />
-        <item itemvalue="Node.js.recursion.js" />
+        <item itemvalue="Node.js.arrowFunctionRevisited.js" />
+        <item itemvalue="Node.js.Partial functionsinding.js" />
+        <item itemvalue="Node.js.functionBinding.js" />
+        <item itemvalue="Node.js.decObjectWithMultipleArguments.js" />
+        <item itemvalue="Node.js.decOnObjects.js" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +226,8 @@
       <workItem from="1589480475444" duration="5342000" />
       <workItem from="1589565344883" duration="2226000" />
       <workItem from="1589610130444" duration="15071000" />
+      <workItem from="1589657653684" duration="4811000" />
+      <workItem from="1589720801776" duration="7850000" />
     </task>
     <servers />
   </component>
@@ -270,70 +275,70 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="222" key="GridCell.Tab.0.bottom" timestamp="1589649033869">
+    <state width="1317" height="136" key="GridCell.Tab.0.bottom" timestamp="1589746607774">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589649033869" />
-    <state width="1317" height="222" key="GridCell.Tab.0.center" timestamp="1589649033868">
+    <state width="1317" height="136" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589746607774" />
+    <state width="1317" height="136" key="GridCell.Tab.0.center" timestamp="1589746607774">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589649033868" />
-    <state width="1317" height="222" key="GridCell.Tab.0.left" timestamp="1589649033868">
+    <state width="1317" height="136" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589746607774" />
+    <state width="1317" height="136" key="GridCell.Tab.0.left" timestamp="1589746607774">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589649033868" />
-    <state width="1317" height="222" key="GridCell.Tab.0.right" timestamp="1589649033868">
+    <state width="1317" height="136" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589746607774" />
+    <state width="1317" height="136" key="GridCell.Tab.0.right" timestamp="1589746607774">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="222" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589649033868" />
-    <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1589618094053">
+    <state width="1317" height="136" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589746607774" />
+    <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1589743917454">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589618094053" />
-    <state width="1317" height="215" key="GridCell.Tab.1.center" timestamp="1589618094053">
+    <state width="1317" height="215" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589743917454" />
+    <state width="1317" height="215" key="GridCell.Tab.1.center" timestamp="1589743917453">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1589618094053" />
-    <state width="1317" height="215" key="GridCell.Tab.1.left" timestamp="1589618094053">
+    <state width="1317" height="215" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1589743917453" />
+    <state width="1317" height="215" key="GridCell.Tab.1.left" timestamp="1589743917453">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1589618094053" />
-    <state width="1317" height="215" key="GridCell.Tab.1.right" timestamp="1589618094053">
+    <state width="1317" height="215" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1589743917453" />
+    <state width="1317" height="215" key="GridCell.Tab.1.right" timestamp="1589743917454">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1589618094053" />
-    <state width="1317" height="215" key="GridCell.Tab.2.bottom" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1589743917454" />
+    <state width="1317" height="215" key="GridCell.Tab.2.bottom" timestamp="1589743917456">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.2.center" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589743917456" />
+    <state width="1317" height="215" key="GridCell.Tab.2.center" timestamp="1589743917455">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.2.left" timestamp="1589618094053">
+    <state width="1317" height="215" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1589743917455" />
+    <state width="1317" height="215" key="GridCell.Tab.2.left" timestamp="1589743917455">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1589618094053" />
-    <state width="1317" height="215" key="GridCell.Tab.2.right" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1589743917455" />
+    <state width="1317" height="215" key="GridCell.Tab.2.right" timestamp="1589743917455">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.3.bottom" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1589743917455" />
+    <state width="1317" height="215" key="GridCell.Tab.3.bottom" timestamp="1589743917457">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.3.center" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589743917457" />
+    <state width="1317" height="215" key="GridCell.Tab.3.center" timestamp="1589743917456">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.3.left" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1589743917456" />
+    <state width="1317" height="215" key="GridCell.Tab.3.left" timestamp="1589743917456">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
-    <state width="1317" height="215" key="GridCell.Tab.3.right" timestamp="1589618094054">
+    <state width="1317" height="215" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1589743917456" />
+    <state width="1317" height="215" key="GridCell.Tab.3.right" timestamp="1589743917457">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1589618094054" />
+    <state width="1317" height="215" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1589743917457" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1589481129326">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -346,9 +351,86 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1589398995945" />
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589089903358">
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589746651489">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1589089903358" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1589746651489" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decorator1.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decOnObjects.js</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decOnObjects.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/Decorator/decObjectWithMultipleArguments.js</url>
+          <line>26</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/Advance working with function/FunctionBinding/functionBinding.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

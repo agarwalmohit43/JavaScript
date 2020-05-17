@@ -20,3 +20,4 @@ console.log(...'Mohit') //M o h i t
 console.log(Array.from('Mohit')) //[ 'M', 'o', 'h', 'i', 't' ] -> converts iterable to array form
 console.log(...arr) //19 2 48 35 72
 
+
