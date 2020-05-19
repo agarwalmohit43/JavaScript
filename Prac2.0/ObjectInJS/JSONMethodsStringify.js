@@ -24,10 +24,9 @@ let meetup = {
 };
 room.occupiedBy = meetup; // room references meetup
 console.log( JSON.stringify(meetup, function replacer(key, value) {
-    console.log(`${key}: ${value}`);
-    return (key == 'occupiedBy') ? undefined : value;
+    console.log(` Key: ${key}, Value: ${value}`);
+    return (key === 'occupiedBy') ? undefined : value;
 }));
-
 
 //third parameter is for space and indentation
 console.log(JSON.stringify([1,2,3], null, 2))
@@ -43,5 +42,5 @@ let meetups = {
     title: "Conference",
     rooms
 };
-console.log( JSON.stringify(rooms) );
+console.log('rooms: ' + JSON.stringify(rooms) );
 console.log(JSON.stringify(meetups))
