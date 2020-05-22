@@ -17,13 +17,12 @@ rabit.sleep();
 console.log('Rabit Sleeping: ' + rabit.isSleeping); //true
 
 let user = {
-    name : 'userName',
     get name() {
-        return this.name;
+        return this._name;
     },
 
     set name(v) {
-      this.name = v;
+      this._name = v;
     },
 
     get Access() {
@@ -33,7 +32,6 @@ let user = {
 
 let admin = {
     age : 50,
-    name : 'Admin Name',
     access : 'Admin',
     isAdmin : true,
     __proto__ : user
@@ -41,21 +39,23 @@ let admin = {
 
 let guest = {
     age : 20,
-    name : 'Guest Name',
     access : 'Guest',
     __proto__ : user
 }
 
 let security = {
     age : 40,
-    name : 'Security Name',
     access : 'Security',
     __proto__ : user
 }
 console.log(admin.age); //50
+
+admin.name = 'Admins'
 console.log(admin.name) // Admin Name
 console.log(admin.Access); //Admin
+
 console.log(guest.Access); //Guest
+
 console.log(security.Access); //Security
 
 let person = {

@@ -57,11 +57,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Object properties configuration/getterSetter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/F.prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/Prototype methods, objects without __proto__.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/nativePrototype.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsStringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsStringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/basic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,10 +129,10 @@
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="JSONMethodsStringify.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/ObjectInJS/JSONMethodsStringify.js" working-dir="$PROJECT_DIR$/Prac2.0/ObjectInJS">
+    <configuration name="F.prototype.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/F.prototype.js" working-dir="$PROJECT_DIR$/Prac2.0/Prototypal inheritance">
       <method v="2" />
     </configuration>
-    <configuration name="arrowFunctionRevisited.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Advance working with function/arrowFunctionRevisited.js" working-dir="$PROJECT_DIR$/Prac2.0/Advance working with function">
+    <configuration name="Prototype methods, objects without __proto__.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/Prototype methods, objects without __proto__.js" working-dir="$PROJECT_DIR$/Prac2.0/Prototypal inheritance">
       <method v="2" />
     </configuration>
     <configuration name="basic.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Prototypal inheritance">
@@ -141,7 +141,7 @@
     <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Object properties configuration">
       <method v="2" />
     </configuration>
-    <configuration name="getterSetter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Object properties configuration/getterSetter.js" working-dir="$PROJECT_DIR$/Prac2.0/Object properties configuration">
+    <configuration name="nativePrototype.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/nativePrototype.js" working-dir="$PROJECT_DIR$/Prac2.0/Prototypal inheritance">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -154,19 +154,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.arrowFunctionRevisited.js" />
-      <item itemvalue="Node.js.basic.js" />
-      <item itemvalue="Node.js.JSONMethodsStringify.js" />
-      <item itemvalue="Node.js.getterSetter.js" />
       <item itemvalue="Node.js.basic.js (1)" />
+      <item itemvalue="Node.js.F.prototype.js" />
+      <item itemvalue="Node.js.nativePrototype.js" />
+      <item itemvalue="Node.js.Prototype methods, objects without __proto__.js" />
+      <item itemvalue="Node.js.basic.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.basic.js (1)" />
-        <item itemvalue="Node.js.getterSetter.js" />
+        <item itemvalue="Node.js.Prototype methods, objects without __proto__.js" />
         <item itemvalue="Node.js.basic.js" />
-        <item itemvalue="Node.js.JSONMethodsStringify.js" />
-        <item itemvalue="Node.js.arrowFunctionRevisited.js" />
+        <item itemvalue="Node.js.nativePrototype.js" />
+        <item itemvalue="Node.js.F.prototype.js" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +224,8 @@
       <workItem from="1589657653684" duration="4811000" />
       <workItem from="1589720801776" duration="8193000" />
       <workItem from="1589824044439" duration="227000" />
-      <workItem from="1589904432046" duration="11969000" />
+      <workItem from="1589904432046" duration="12646000" />
+      <workItem from="1590081696970" duration="9295000" />
     </task>
     <servers />
   </component>
@@ -272,22 +273,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="136" key="GridCell.Tab.0.bottom" timestamp="1589917325988">
+    <state width="1317" height="193" key="GridCell.Tab.0.bottom" timestamp="1590091505792">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="136" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1589917325988" />
-    <state width="1317" height="136" key="GridCell.Tab.0.center" timestamp="1589917325988">
+    <state width="1317" height="193" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590091505792" />
+    <state width="1317" height="193" key="GridCell.Tab.0.center" timestamp="1590091505791">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="136" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1589917325988" />
-    <state width="1317" height="136" key="GridCell.Tab.0.left" timestamp="1589917325988">
+    <state width="1317" height="193" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590091505791" />
+    <state width="1317" height="193" key="GridCell.Tab.0.left" timestamp="1590091505791">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="136" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1589917325988" />
-    <state width="1317" height="136" key="GridCell.Tab.0.right" timestamp="1589917325988">
+    <state width="1317" height="193" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590091505791" />
+    <state width="1317" height="193" key="GridCell.Tab.0.right" timestamp="1590091505792">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="136" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1589917325988" />
+    <state width="1317" height="193" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590091505792" />
     <state width="1317" height="215" key="GridCell.Tab.1.bottom" timestamp="1589747016252">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -348,10 +349,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1589907344606" />
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589746651489">
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590088640052">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1589746651489" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1590088640052" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
