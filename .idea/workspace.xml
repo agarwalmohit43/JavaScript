@@ -57,11 +57,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Class/mixin/eventMixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Class/mixin/inheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Class/mixin/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandlingWithCustomProperty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customNaming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/finally.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/wrappingException.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Class/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Class/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,26 +125,26 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.eventMixin.js">
+  <component name="RunManager" selected="Node.js.wrappingException.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Extending built-in classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Class/Extending built-in classes.js" working-dir="$PROJECT_DIR$/Prac2.0/Class">
+    <configuration name="basic.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
       <method v="2" />
     </configuration>
-    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Class/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Class">
+    <configuration name="customErrorHandlingWithCustomProperty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandlingWithCustomProperty.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
       <method v="2" />
     </configuration>
-    <configuration name="eventMixin.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Class/mixin/eventMixin.js" working-dir="$PROJECT_DIR$/Prac2.0/Class/mixin">
+    <configuration name="customErrorHandling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandling.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
       <method v="2" />
     </configuration>
-    <configuration name="inheritance.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Class/mixin/inheritance.js" working-dir="$PROJECT_DIR$/Prac2.0/Class/mixin">
+    <configuration name="customNaming.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customNaming.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
       <method v="2" />
     </configuration>
-    <configuration name="mixin.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Class/mixin/mixin.js" working-dir="$PROJECT_DIR$/Prac2.0/Class">
+    <configuration name="wrappingException.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/wrappingException.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -154,19 +157,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Extending built-in classes.js" />
-      <item itemvalue="Node.js.basic.js" />
-      <item itemvalue="Node.js.mixin.js" />
-      <item itemvalue="Node.js.inheritance.js" />
-      <item itemvalue="Node.js.eventMixin.js" />
+      <item itemvalue="Node.js.basic.js (1)" />
+      <item itemvalue="Node.js.customErrorHandling.js" />
+      <item itemvalue="Node.js.customErrorHandlingWithCustomProperty.js" />
+      <item itemvalue="Node.js.customNaming.js" />
+      <item itemvalue="Node.js.wrappingException.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.eventMixin.js" />
-        <item itemvalue="Node.js.inheritance.js" />
-        <item itemvalue="Node.js.mixin.js" />
-        <item itemvalue="Node.js.basic.js" />
-        <item itemvalue="Node.js.Extending built-in classes.js" />
+        <item itemvalue="Node.js.wrappingException.js" />
+        <item itemvalue="Node.js.customNaming.js" />
+        <item itemvalue="Node.js.customErrorHandlingWithCustomProperty.js" />
+        <item itemvalue="Node.js.customErrorHandling.js" />
+        <item itemvalue="Node.js.basic.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +233,8 @@
       <workItem from="1590174526290" duration="4977000" />
       <workItem from="1590259144047" duration="5886000" />
       <workItem from="1590344854149" duration="356000" />
-      <workItem from="1590510310853" duration="1259000" />
+      <workItem from="1590510310853" duration="1319000" />
+      <workItem from="1590519210156" duration="4234000" />
     </task>
     <servers />
   </component>
@@ -278,70 +282,70 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="214" key="GridCell.Tab.0.bottom" timestamp="1590265956937">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1590523430727">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590265956937" />
-    <state width="1317" height="214" key="GridCell.Tab.0.center" timestamp="1590265956936">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
+    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1590523430727">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590265956936" />
-    <state width="1317" height="214" key="GridCell.Tab.0.left" timestamp="1590265956936">
+    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
+    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1590523430726">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590265956936" />
-    <state width="1317" height="214" key="GridCell.Tab.0.right" timestamp="1590265956937">
+    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590523430726" />
+    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1590523430727">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590265956937" />
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1590265956938">
+    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1590265956937">
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590265956937" />
-    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1590265956937">
+    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590265956937" />
-    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1590265956937">
+    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590265956937" />
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1590265956939">
+    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1590520783476">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590265956939" />
-    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
+    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1590520783476">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
+    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1590520783475">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
-    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1590265956938">
+    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
+    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1590520783476">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1590265956938" />
+    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1589916347702">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
