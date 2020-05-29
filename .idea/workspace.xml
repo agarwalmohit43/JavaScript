@@ -57,14 +57,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandlingWithCustomProperty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/customNaming.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/finally.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/errorHandling/wrappingException.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Array/practice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/Promise.allSettled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/Promise.reject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/promise.race.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/promise.resolve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/promiseAll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Thenable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/asyncandawait.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/awaitAcceptThenable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/errorHandling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/fetchGithubUser/fetchUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/fetchGithubUser/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/errorHandling/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/errorHandling/unhandledrejection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchFromGithub/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchFromGithub/testCodeSplited.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchResponse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/promiseChaining.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/promisification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/reWrtitingCallbackFunc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/callback/callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/callback/callbackChaining.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/callback/callbackErrorHandling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/callback/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Advance working with function/DS/recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeJsProject/Javascript Check/JavaScript Practice/one.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeJsProject/Javascript Check/JavaScript Practice/one.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/basic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +95,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="tsconfig.json" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -98,6 +120,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
@@ -118,33 +141,33 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\PromiseCallbacksAsync\Promise\Promise API" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\PromiseCallbacksAsync\Promise" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Promise\callback" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Class\mixin" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\FunctionBinding" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\Decorator" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\dec1" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.wrappingException.js">
+  <component name="RunManager" selected="Node.js.errorHandling.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="basic.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
+    <configuration name="asyncandawait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/asyncandawait.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="customErrorHandlingWithCustomProperty.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandlingWithCustomProperty.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
+    <configuration name="awaitAcceptThenable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/awaitAcceptThenable.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="customErrorHandling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customErrorHandling.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
+    <configuration name="errorHandling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/errorHandling.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="customNaming.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/customNaming.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
+    <configuration name="promiseAll.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/promiseAll.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise">
       <method v="2" />
     </configuration>
-    <configuration name="wrappingException.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/errorHandling/wrappingException.js" working-dir="$PROJECT_DIR$/Prac2.0/errorHandling">
+    <configuration name="promisification.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/promisification.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -157,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.basic.js (1)" />
-      <item itemvalue="Node.js.customErrorHandling.js" />
-      <item itemvalue="Node.js.customErrorHandlingWithCustomProperty.js" />
-      <item itemvalue="Node.js.customNaming.js" />
-      <item itemvalue="Node.js.wrappingException.js" />
+      <item itemvalue="Node.js.promiseAll.js" />
+      <item itemvalue="Node.js.promisification.js" />
+      <item itemvalue="Node.js.asyncandawait.js" />
+      <item itemvalue="Node.js.awaitAcceptThenable.js" />
+      <item itemvalue="Node.js.errorHandling.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.wrappingException.js" />
-        <item itemvalue="Node.js.customNaming.js" />
-        <item itemvalue="Node.js.customErrorHandlingWithCustomProperty.js" />
-        <item itemvalue="Node.js.customErrorHandling.js" />
-        <item itemvalue="Node.js.basic.js (1)" />
+        <item itemvalue="Node.js.errorHandling.js" />
+        <item itemvalue="Node.js.awaitAcceptThenable.js" />
+        <item itemvalue="Node.js.asyncandawait.js" />
+        <item itemvalue="Node.js.promiseAll.js" />
+        <item itemvalue="Node.js.promisification.js" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +257,13 @@
       <workItem from="1590259144047" duration="5886000" />
       <workItem from="1590344854149" duration="356000" />
       <workItem from="1590510310853" duration="1319000" />
-      <workItem from="1590519210156" duration="4234000" />
+      <workItem from="1590519210156" duration="4695000" />
+      <workItem from="1590563104556" duration="1893000" />
+      <workItem from="1590602889931" duration="4266000" />
+      <workItem from="1590642421726" duration="13247000" />
+      <workItem from="1590688113324" duration="8001000" />
+      <workItem from="1590731397227" duration="273000" />
+      <workItem from="1590743031048" duration="3894000" />
     </task>
     <servers />
   </component>
@@ -278,74 +307,78 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1588799897800" />
+    <state width="648" height="618" key="DebuggerActiveHint" timestamp="1590731217703">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="648" height="618" key="DebuggerActiveHint/0.0.1360.728@0.0.1360.728" timestamp="1590731217703" />
     <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1588528942463">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1590523430727">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1590783206820">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
-    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1590523430727">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590783206820" />
+    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1590783206819">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
-    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1590523430726">
+    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590783206819" />
+    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1590783206818">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590523430726" />
-    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1590523430727">
+    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590783206818" />
+    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1590783206819">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590523430727" />
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1590520783475">
+    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590783206819" />
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1590783056938">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590783056938" />
+    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1590783056937">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1590520783476">
+    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1590783056937" />
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1590783056938">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
-    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1590520783476">
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590783056938" />
+    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1590783056938">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
-    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1590520783475">
+    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1590783056938" />
+    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1590783056938">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1590520783475" />
-    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1590520783476">
+    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1590783056938" />
+    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1590783056938">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1590520783476" />
+    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1590783056938" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1589916347702">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -354,14 +387,14 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="272" y="93" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1588799873675" />
-    <state x="336" y="162" key="run.anything.popup" timestamp="1590260626888">
+    <state x="336" y="162" key="run.anything.popup" timestamp="1590729232824">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1590260626888" />
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590177741867">
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1590729232824" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590563345702">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1590177741867" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1590563345702" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -470,6 +503,16 @@
           <url>file://$PROJECT_DIR$/Prac2.0/Class/mixin/eventMixin.js</url>
           <line>17</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/Promise.allSettled.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/Promise API/Promise.allSettled.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

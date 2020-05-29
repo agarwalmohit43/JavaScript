@@ -444,7 +444,7 @@ function promises() {
            console.log("Error: "+result);
        })
 
-       // Promise.race([cleanRoom(),garbageThrown()]).then(function (result) { //race if any is finished and all for all to finish
+       // PromiseCallbacksAsync.race([cleanRoom(),garbageThrown()]).then(function (result) { //race if any is finished and all for all to finish
        //     console.log("Finished "+result);
        // }).catch(function (result) {
        //     console.log("Error : " +result);

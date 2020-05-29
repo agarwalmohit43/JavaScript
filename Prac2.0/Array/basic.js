@@ -22,9 +22,9 @@ console.log(fruit.pop()); // remove the element from the last
 console.log(fruit.shift()) // remove the element from the starting
 console.log(fruit)
 
-let arr = [1,2,3,4];
-console.log(`${arr}`); // 1,2,3,4
-console.log(arr); // [ 1, 2, 3, 4 ]
+let arr2 = [1,2,3,4];
+console.log(`${arr2}`); // 1,2,3,4
+console.log(arr2); // [ 1, 2, 3, 4 ]
 
 let testArr = ['Apple'];
 testArr[999] = 'Orange';
@@ -46,16 +46,16 @@ for(let key of arr) {
 }
 
 //truncate the array
-let arr2 = [1,2,3,4,5];
+let arr2_1 = [1,2,3,4,5];
 
-console.log(arr2)
-console.log(arr2.length);
+console.log(arr2_1)
+console.log(arr2_1.length);
 
-arr2.length = 2;
-console.log(arr2)
+arr2_1.length = 2;
+console.log(arr2_1)
 
-arr2.length = 5; //once truncate occurs after increasing the size it doesn't bring back the elements
-console.log(arr2)
+arr2_1.length = 5; //once truncate occurs after increasing the size it doesn't bring back the elements
+console.log(arr2_1)
 
 let arr3 = new Array(2)
 arr3[3] = 'Apple'; //accessing the index more than length still work :)
@@ -121,6 +121,6 @@ console.log(arr5.indexOf('k')); // return -1 if not found, includes is preferred
 console.log(arr5.lastIndexOf(8,10)); // till index 10 last occurrence of 8
 console.log(arr5.includes(5)); // return true/false
 
-const arr6 = [NaN];
+const arr6 = [1,NaN];
 console.log(arr6.indexOf(NaN) === 0); // doesn't return index 0
 console.log(arr6.includes(NaN) === true)
