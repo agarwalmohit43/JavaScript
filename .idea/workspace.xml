@@ -57,9 +57,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/Async iterables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/asyncGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/asyncIterators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Generators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/generatorComposition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/generatorsError.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/practice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/study.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,26 +126,26 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Advance working with function\FunctionBinding" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.basic2.js">
+  <component name="RunManager" selected="Node.js.Async iterables.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
+    <configuration name="Async iterables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/Async iterables.js" working-dir="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators">
+      <method v="2" />
+    </configuration>
+    <configuration name="asyncGenerator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/asyncGenerator.js" working-dir="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators">
+      <method v="2" />
+    </configuration>
+    <configuration name="asyncIterators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators/asyncIterators.js" working-dir="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/Async iterators and generators">
+      <method v="2" />
+    </configuration>
     <configuration name="asyncandawait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/asyncandawait.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
       <method v="2" />
     </configuration>
-    <configuration name="awaitAcceptThenable.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/awaitAcceptThenable.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
-      <method v="2" />
-    </configuration>
-    <configuration name="basic2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Array/basic2.js" working-dir="$PROJECT_DIR$/Prac2.0/Array">
-      <method v="2" />
-    </configuration>
-    <configuration name="errorHandling.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait/errorHandling.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/asyncAwait">
-      <method v="2" />
-    </configuration>
-    <configuration name="practice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Array/practice.js" working-dir="$PROJECT_DIR$/Prac2.0/Array">
+    <configuration name="generatorsError.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration/generatorsError.js" working-dir="$PROJECT_DIR$/Prac2.0/Generators, advanced iteration">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -154,19 +158,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Node.js.generatorsError.js" />
       <item itemvalue="Node.js.asyncandawait.js" />
-      <item itemvalue="Node.js.awaitAcceptThenable.js" />
-      <item itemvalue="Node.js.errorHandling.js" />
-      <item itemvalue="Node.js.practice.js" />
-      <item itemvalue="Node.js.basic2.js" />
+      <item itemvalue="Node.js.asyncIterators.js" />
+      <item itemvalue="Node.js.asyncGenerator.js" />
+      <item itemvalue="Node.js.Async iterables.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.basic2.js" />
-        <item itemvalue="Node.js.practice.js" />
-        <item itemvalue="Node.js.errorHandling.js" />
-        <item itemvalue="Node.js.awaitAcceptThenable.js" />
+        <item itemvalue="Node.js.Async iterables.js" />
+        <item itemvalue="Node.js.asyncGenerator.js" />
+        <item itemvalue="Node.js.asyncIterators.js" />
         <item itemvalue="Node.js.asyncandawait.js" />
+        <item itemvalue="Node.js.generatorsError.js" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +242,7 @@
       <workItem from="1590688113324" duration="8001000" />
       <workItem from="1590731397227" duration="273000" />
       <workItem from="1590743031048" duration="6724000" />
-      <workItem from="1590819646439" duration="418000" />
+      <workItem from="1590819646439" duration="6961000" />
     </task>
     <servers />
   </component>
@@ -290,22 +294,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1590785947254">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1590838050424">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590785947254" />
-    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1590785947254">
+    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1590838050423" />
+    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1590838050423">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590785947254" />
-    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1590785947253">
+    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1590838050423" />
+    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1590838050423">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590785947253" />
-    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1590785947254">
+    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1590838050423" />
+    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1590838050423">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590785947254" />
+    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1590838050423" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1590784104085">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
