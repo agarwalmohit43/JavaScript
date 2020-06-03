@@ -5,9 +5,10 @@ function hello(name) {
 }
 
 function say(phrase) {
-    alert(`** ${phrase} **`);
+    console.log(`** ${phrase} **`);
     let test = () => {
         console.log("inside test func()")};
 }
 
 hello("Mohit");
+
