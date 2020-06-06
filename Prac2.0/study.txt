@@ -6,6 +6,8 @@ Every func in js is closures.
 Need to revise:
 Array function
 fun.call, func.apply
+func.bind
+prototypes
 
 
 
