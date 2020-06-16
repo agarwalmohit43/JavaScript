@@ -11,7 +11,7 @@ let users = [
 
 function groupByIdMap(users) {
     return users.map((item) => {
-        return {keys: item};
+        return {[item.id]: item};
     });
 }
 

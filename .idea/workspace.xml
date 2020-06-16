@@ -57,32 +57,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Array/practice/practice2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/JavaScript Fundamentals/Nullish coalescing operator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/JavaScript Fundamentals/functionDeclaration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Objects/Optional chaining.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Objects/Symbol.isPrimitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Objects/this.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Copy and sort array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Create keyed object from array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Filter unique array members.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Get average age.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Map to objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Shuffle an array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Sort users by age.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Summary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/arrayMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/camelize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/extendable calculator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/filterRange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/filterRangeInPlace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/maptoNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/sortInDescOrder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/eval_Curring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Array/practice.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Array/practice/practice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/array/Create keyed object from array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Create keyed object from array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +252,7 @@
       <workItem from="1592140217435" duration="642000" />
       <workItem from="1592225895231" duration="1991000" />
       <workItem from="1592238615085" duration="5292000" />
-      <workItem from="1592320873379" duration="8072000" />
+      <workItem from="1592320873379" duration="8230000" />
     </task>
     <servers />
   </component>
@@ -340,22 +316,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1592334655145">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1592334811346">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592334655145" />
-    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1592334655145">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592334811346" />
+    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1592334811346">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1592334655145" />
-    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1592334655145">
+    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1592334811346" />
+    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1592334811346">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1592334655145" />
-    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1592334655145">
+    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1592334811346" />
+    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1592334811346">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1592334655145" />
+    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1592334811346" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1592239712769">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
