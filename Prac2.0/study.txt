@@ -10,4 +10,8 @@ func.bind
 prototypes
 
 
+use of loadash libraries
+Polyfills
 
+
+substring vs slice
