@@ -4,7 +4,7 @@ Every func in js is closures.
 [[Environment]] property and lexical environments work is great example for it.
 
 Need to revise:
-Array function
+Array function ---------------> done
 fun.call, func.apply
 func.bind
 prototypes
@@ -14,4 +14,6 @@ use of loadash libraries
 Polyfills
 
 
-substring vs slice
+substring vs slice-----------> done
+
+Array.isArray([])

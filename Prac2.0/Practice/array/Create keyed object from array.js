@@ -23,6 +23,4 @@ function groupById(users) {
 }
 let usersById = groupById(users);
 
-
-
 console.log(usersById )
