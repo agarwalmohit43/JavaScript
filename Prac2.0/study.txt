@@ -16,4 +16,4 @@ Polyfills
 
 substring vs slice-----------> done
 
-Array.isArray([])
+Array.isArray([])------------> done
