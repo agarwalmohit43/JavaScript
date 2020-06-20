@@ -57,15 +57,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Output a single-linked list in the reverse order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Output a single-linked list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Sum all numbers till the given one.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/fibonacci.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/pow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/recursiveTraversal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/recSal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Counter object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Filter through function using closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sort by field using closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sum with closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,26 +130,26 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\PromiseCallbacksAsync\Promise\Promise API" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Output a single-linked list in the reverse order.js">
+  <component name="RunManager" selected="Node.js.basic.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Output a single-linked list in the reverse order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Output a single-linked list in the reverse order.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="Filter through function using closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Filter through function using closure.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope">
       <method v="2" />
     </configuration>
-    <configuration name="Output a single-linked list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Output a single-linked list.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="Output every second.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval">
       <method v="2" />
     </configuration>
-    <configuration name="Sum all numbers till the given one.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/Sum all numbers till the given one.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="Sort by field using closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sort by field using closure.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope">
       <method v="2" />
     </configuration>
-    <configuration name="factorial.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/factorial.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Object properties configuration">
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/fibonacci.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="recSal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/recSal.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -162,19 +162,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Sum all numbers till the given one.js" />
-      <item itemvalue="Node.js.factorial.js" />
-      <item itemvalue="Node.js.fibonacci.js" />
-      <item itemvalue="Node.js.Output a single-linked list.js" />
-      <item itemvalue="Node.js.Output a single-linked list in the reverse order.js" />
+      <item itemvalue="Node.js.Filter through function using closure.js" />
+      <item itemvalue="Node.js.Sort by field using closure.js" />
+      <item itemvalue="Node.js.Output every second.js" />
+      <item itemvalue="Node.js.recSal.js" />
+      <item itemvalue="Node.js.basic.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Output a single-linked list in the reverse order.js" />
-        <item itemvalue="Node.js.Output a single-linked list.js" />
-        <item itemvalue="Node.js.fibonacci.js" />
-        <item itemvalue="Node.js.factorial.js" />
-        <item itemvalue="Node.js.Sum all numbers till the given one.js" />
+        <item itemvalue="Node.js.basic.js" />
+        <item itemvalue="Node.js.recSal.js" />
+        <item itemvalue="Node.js.Output every second.js" />
+        <item itemvalue="Node.js.Sort by field using closure.js" />
+        <item itemvalue="Node.js.Filter through function using closure.js" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,8 @@
       <workItem from="1592320873379" duration="8293000" />
       <workItem from="1592367803688" duration="2777000" />
       <workItem from="1592413909306" duration="7089000" />
-      <workItem from="1592506285478" duration="4331000" />
+      <workItem from="1592506285478" duration="4598000" />
+      <workItem from="1592657225358" duration="7120000" />
     </task>
     <servers />
   </component>
@@ -326,22 +327,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1592511108905">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1592676177295">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592511108905" />
-    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1592511108904">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
+    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1592676177295">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1592511108904" />
-    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1592511108904">
+    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
+    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1592676177295">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1592511108904" />
-    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1592511108905">
+    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
+    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1592676177295">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1592511108905" />
+    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1592419896691">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

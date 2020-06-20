@@ -71,7 +71,7 @@ console.log(Object.isExtensible(user)); //true
 Object.preventExtensions(user);
 Object.freeze(user);
 Object.seal(user);
-console.log(Object.isExtensible(user)); // true
+console.log(Object.isExtensible(user)); // false
 console.log(Object.isFrozen(user));
 console.log(Object.isSealed(user));
 
