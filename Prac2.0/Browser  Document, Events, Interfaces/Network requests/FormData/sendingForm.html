@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form id="formElem">
+    <input type="text" name="name" value="Mohit">
+    <input type="text" name="surname" value="Kumar">
+    <input type="submit">
+</form>
+
+<script>
+    let form = document.getElementById('formElem');
+
+    form.onsubmit = async (e) => {
+        e.preventDefault();
+        let formData = new FormData(form);
+        formData.append('firstName', 'MP');
+        console.log(formData.has('firstName'))
+        console.log(formData);
+        for (let [name,value] of formData) {
+             console.log(`${name}: ${value}`);
+        }
+
+        // formData.forEach((item,index) => console.log(item)) //eliminates only values
+    }
+</script>
+</body>
+</html>

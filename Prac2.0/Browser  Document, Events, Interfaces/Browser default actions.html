@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/" onclick="event.preventDefault(), hello(event)">here</a>
+<br>
+<button>Right-click shows browser context menu</button>
+
+<button oncontextmenu="alert('Draw our menu'); return false">
+    Right-click shows our context menu
+</button>
+
+<br>
+<p>Right-click here for the document context menu</p>
+<button id="elem">Right-click here for the button context menu</button>
+
+<script>
+    function hello(e) {
+        alert(e.type);
+    }
+    function bye() {
+        alert('Bye')
+    }
+    let a = document.querySelector('a');
+    a.addEventListener('click', bye);
+
+
+    elem.oncontextmenu = function(event) {
+        event.preventDefault();
+      //  event.stopPropagation();// to stop bubbling effect
+        alert("Button context menu");
+    };
+
+    document.oncontextmenu = function(event) {
+        if (event.defaultPrevented) return; //alternative way to stop bubbling
+        event.preventDefault();
+        alert("Document context menu");
+    };
+</script>
+</body>
+</html>

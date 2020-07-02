@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Download using blob</title>
+</head>
+<body>
+<a href="#" download="Hello.txt" id="link">Download Hello.txt</a>
+
+<img src="data:image/png;base64,R0lGODlhDAAMAKIFAF5LAP/zxAAAANyuAP/gaP///wAAAAAAACH5BAEAAAUALAAAAAAMAAwAAAMlWLPcGjDKFYi9lxKBOaGcF35DhWHamZUW0K4mAbiwWtuf0uxFAgA7">
+
+<script>
+    let blob = new Blob(['Hello', ' ', 'World'], {type: 'text/plain'});
+
+    link.href = URL.createObjectURL(blob);
+</script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .animal[data-animal-type ='animals'] {
+            padding: 15px;
+            border: 1px solid #d6e9c6;
+            border-radius: 4px;
+            color: #3c763d;
+            background-color: #dff0d8;
+            width: 200px;
+        }
+        .animal[data-animal-type ='newAnimals'] {
+            background: coral;
+            width: 200px;
+            border: 2px solid greenyellow;
+        }
+
+
+        .fish[data-fish-type ='fishes'] {
+            padding: 15px;
+            border: 1px solid #d6e9c6;
+            border-radius: 4px;
+            color: #3c763d;
+            background-color: #00B7FF;
+            width: 200px;
+        }
+
+    </style>
+
+</head>
+<body>
+<ul>
+    <li id="animal" class="animal" data-animal-type = 'animals'>Animals
+        <ul>
+            <li>Mammals
+                <ul>
+                    <li>Cows</li>
+                    <li>Donkeys</li>
+                    <li>Dogs</li>
+                    <li>Tigers</li>
+                </ul>
+            </li>
+            <li>Other
+                <ul>
+                    <li>Snakes</li>
+                    <li>Birds</li>
+                    <li>Lizards</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li id="fish" class="fish" data-fish-type = 'fishes'>Fishes
+        <ul>
+            <li >Aquarium
+                <ul>
+                    <li>Guppy</li>
+                    <li>Angelfish</li>
+                </ul>
+            </li>
+            <li>Sea
+                <ul>
+                    <li>Sea trout</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<script>
+
+    alert(fish.dataset.fishType);
+    alert(animal.dataset.animalType);
+
+    //modify
+   // setTimeout(() => animal.dataset.animalType = 'newAnimals',2000);
+
+    for (let li of document.querySelectorAll('li')) {
+        // get the title from the text node
+        let title = li.firstChild.data;
+
+        title = title.trim(); // remove extra spaces from ends
+
+        // get the descendants count
+        let count = li.getElementsByTagName('li').length;
+
+        //alert(title + ': ' + count);
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form id="form" name="myForm">
+    <fieldset name="userFields">
+        <legend>info</legend>
+        <input name="login" type="text">
+    </fieldset>
+</form>
+
+<script>
+    let form = document.forms[0] || document.forms.myForm;
+    alert(form);
+    alert(form.elements.login);
+    alert(form.elements.userFields);
+    alert(form.elements.userFields.elements.login === form.elements.login)
+
+</script>
+</body>
+</html>

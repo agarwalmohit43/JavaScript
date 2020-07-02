@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>fetch()</title>
+    <script src="https://en.js.cx/test/libs.js"></script>
+    <script src="fetch().js"></script>
+</head>
+<body>
+<script>
+    // const fetch = require("node-fetch");
+    async function getUsers(names) {
+        let jobs = [];
+        for (let name of names) {
+            let job = fetch(`https://api.github.com/users/${name}`).then(
+                successResponse => {
+                    if (successResponse.status !== 200 ) {
+                        return null;
+                    } else {
+                        return successResponse.json();
+                    }
+                }, failResponse => null
+            );
+            jobs.push(job);
+        }
+        console.log('Jobs');
+        console.log(jobs) // array containing promises object are logged.
+        let results = await Promise.all(jobs);
+        console.log(results); //array containing objects are logged
+        return results;
+    }
+</script>
+</body>
+</html>

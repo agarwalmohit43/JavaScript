@@ -57,15 +57,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Recursion/recSal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Counter object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Filter through function using closure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sort by field using closure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sum with closures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Binary data, files/Blob to base64.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Binary data, files/basicDownload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Binary data, files/basicDownload2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Browser default actions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Count descendants.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Forms, controls/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Forms, controls/selectClause.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Network requests/FormData/sendingForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Network requests/Websocket/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Network requests/fetch().html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Network requests/fetch().js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Anchors string start ^ and end $.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Character classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Quantifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Sets and ranges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Unicode flag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Word boundary b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Select all diagonal elements and color it.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await/Call async from non-async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await/await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/delayWithms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Currying, Reference Type/CurryingExample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Currying, Reference Type/referenceEx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Objects/descriptors define.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Prototypes, inheritance/Add the decorating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Prototypes, inheritance/Add toString to dictionary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Prototypes, inheritance/cloneObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Prototypes, inheritance/repeatString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/Accessing array[-1].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/Error on reading non-existant property.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/Eval-calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/doesnotReturnanyValueAsEnumerableNotSupported.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Proxy and Reflects/usingReflect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/import_export/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/import_export/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/import_export/say.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/import_export/say2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +108,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="package.json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -105,7 +137,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prac2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prac2.0/Practice/import_export" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -116,12 +148,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Practice\JavaScript Fundamentals" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Array\practice" />
@@ -129,27 +158,31 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Modules\exportImport" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\PromiseCallbacksAsync\Promise\Promise API" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Practice\import_export" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.basic.js">
+  <component name="RunManager" selected="Node.js.Quantifiers.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Filter through function using closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Filter through function using closure.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope">
+    <configuration name="Anchors string start ^ and end $.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Anchors string start ^ and end $.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
-    <configuration name="Output every second.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval/Output every second.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/setTimeout vs setInterval">
+    <configuration name="Quantifiers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Quantifiers.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
-    <configuration name="Sort by field using closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope/Sort by field using closure.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Variable Scope">
+    <configuration name="Sets and ranges.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Sets and ranges.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
-    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Object properties configuration/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Object properties configuration">
+    <configuration name="Word boundary b.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Word boundary b.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
-    <configuration name="recSal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/Recursion/recSal.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/Recursion">
+    <configuration name="basic.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -162,19 +195,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Filter through function using closure.js" />
-      <item itemvalue="Node.js.Sort by field using closure.js" />
-      <item itemvalue="Node.js.Output every second.js" />
-      <item itemvalue="Node.js.recSal.js" />
-      <item itemvalue="Node.js.basic.js" />
+      <item itemvalue="Node.js.basic.js (1)" />
+      <item itemvalue="Node.js.Anchors string start ^ and end $.js" />
+      <item itemvalue="Node.js.Word boundary b.js" />
+      <item itemvalue="Node.js.Sets and ranges.js" />
+      <item itemvalue="Node.js.Quantifiers.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.basic.js" />
-        <item itemvalue="Node.js.recSal.js" />
-        <item itemvalue="Node.js.Output every second.js" />
-        <item itemvalue="Node.js.Sort by field using closure.js" />
-        <item itemvalue="Node.js.Filter through function using closure.js" />
+        <item itemvalue="Node.js.Quantifiers.js" />
+        <item itemvalue="Node.js.Sets and ranges.js" />
+        <item itemvalue="Node.js.basic.js (1)" />
+        <item itemvalue="Node.js.Word boundary b.js" />
+        <item itemvalue="Node.js.Anchors string start ^ and end $.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +296,20 @@
       <workItem from="1592367803688" duration="2777000" />
       <workItem from="1592413909306" duration="7089000" />
       <workItem from="1592506285478" duration="4598000" />
-      <workItem from="1592657225358" duration="7120000" />
+      <workItem from="1592657225358" duration="7767000" />
+      <workItem from="1592712576358" duration="3860000" />
+      <workItem from="1592747133466" duration="5570000" />
+      <workItem from="1592799893741" duration="395000" />
+      <workItem from="1592845878660" duration="2039000" />
+      <workItem from="1592923422613" duration="2766000" />
+      <workItem from="1592995575093" duration="5512000" />
+      <workItem from="1593199489944" duration="2396000" />
+      <workItem from="1593249118835" duration="4657000" />
+      <workItem from="1593331875272" duration="5726000" />
+      <workItem from="1593453045069" duration="781000" />
+      <workItem from="1593534983802" duration="4040000" />
+      <workItem from="1593676567533" duration="4431000" />
+      <workItem from="1593707028371" duration="9381000" />
     </task>
     <servers />
   </component>
@@ -327,86 +373,90 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1592676177295">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1593718359851">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
-    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1592676177295">
+    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593718359851" />
+    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1593718359850">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
-    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1592676177295">
+    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1593718359850" />
+    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1593718359850">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
-    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1592676177295">
+    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1593718359850" />
+    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1593718359851">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1592676177295" />
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1592419896691">
+    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1593718359851" />
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.1.center" timestamp="1593715759383">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1593715759383" />
+    <state width="1317" height="214" key="GridCell.Tab.1.left" timestamp="1593715759383">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1593715759383" />
+    <state width="1317" height="214" key="GridCell.Tab.1.right" timestamp="1593715759383">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1592419896692">
+    <state width="1317" height="214" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1593715759383" />
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592419896692" />
-    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.2.center" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.2.left" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1592419896691">
+    <state width="1317" height="214" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.2.right" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1592419896691" />
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1592419896692">
+    <state width="1317" height="214" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1592419896692" />
-    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1592419896692">
+    <state width="1317" height="214" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.3.center" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1592419896692" />
-    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1592419896692">
+    <state width="1317" height="214" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.3.left" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1592419896692" />
-    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1592419896692">
+    <state width="1317" height="214" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state width="1317" height="214" key="GridCell.Tab.3.right" timestamp="1593715759384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1592419896692" />
-    <state x="181" y="6" key="SettingsEditor" timestamp="1589916347702">
+    <state width="1317" height="214" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1593715759384" />
+    <state x="181" y="6" key="SettingsEditor" timestamp="1592799977392">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1589916347702" />
+    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1592799977392" />
     <state x="272" y="93" key="Vcs.Push.Dialog.v2" timestamp="1588799873675">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="272" y="93" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1588799873675" />
+    <state x="488" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592764400926">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="488" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.728@0.0.1360.728" timestamp="1592764400926" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1591295821707">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1591295821707" />
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592334840532">
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593353926596">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1592334840532" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1593353926596" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

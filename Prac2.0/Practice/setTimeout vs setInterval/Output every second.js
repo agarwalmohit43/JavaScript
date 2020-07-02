@@ -11,7 +11,7 @@ function printNumbersUsingTimeout(from, to) {
 
 function printNumbersUsingTimeinterval(from,to) {
         let current = from;
-       let timerId =  setInterval(function go() {
+       let timerId =  setInterval(function() {
             if(current === to) {
                 clearInterval(timerId);
             }else {
