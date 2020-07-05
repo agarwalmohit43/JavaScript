@@ -14,3 +14,6 @@ Hi('MOhit')
 Bye('Mohit')
 
 new userClass('MPrachi').display() //MPrachi
+
+
+console.log('meta:',import.meta)
