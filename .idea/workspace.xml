@@ -57,11 +57,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/HTML Practice/emailvaildating.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/HTML Practice/innerHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/placeholderConsoleObjects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Modules/exportOneObject/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Modules/exportOneObject/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchResponse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchResponse.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prac2.0/Practice/import_export" />
+    <property name="last_opened_file_path" value="F:/React/Proj1/youtubevideo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -127,7 +124,7 @@
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.placeholderConsoleObjects.js">
+  <component name="RunManager" selected="Node.js.fetchResponse.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -137,10 +134,10 @@
     <configuration name="Quantifiers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Quantifiers.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
       <method v="2" />
     </configuration>
-    <configuration name="Sets and ranges.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Sets and ranges.js" working-dir="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp">
+    <configuration name="bestArrayMethods.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/array/bestArrayMethods.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/array">
       <method v="2" />
     </configuration>
-    <configuration name="bestArrayMethods.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/array/bestArrayMethods.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/array">
+    <configuration name="fetchResponse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/fetchResponse.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise">
       <method v="2" />
     </configuration>
     <configuration name="init.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Modules/exportOneObject/init.js" working-dir="$PROJECT_DIR$/Prac2.0/Modules/exportOneObject">
@@ -160,18 +157,18 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.Quantifiers.js" />
-      <item itemvalue="Node.js.Sets and ranges.js" />
       <item itemvalue="Node.js.bestArrayMethods.js" />
       <item itemvalue="Node.js.init.js" />
       <item itemvalue="Node.js.placeholderConsoleObjects.js" />
+      <item itemvalue="Node.js.fetchResponse.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.fetchResponse.js" />
         <item itemvalue="Node.js.placeholderConsoleObjects.js" />
         <item itemvalue="Node.js.init.js" />
         <item itemvalue="Node.js.bestArrayMethods.js" />
         <item itemvalue="Node.js.Quantifiers.js" />
-        <item itemvalue="Node.js.Sets and ranges.js" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +273,11 @@
       <workItem from="1593707028371" duration="9537000" />
       <workItem from="1593749590149" duration="6896000" />
       <workItem from="1593848256621" duration="5182000" />
-      <workItem from="1593926171374" duration="599000" />
+      <workItem from="1593926171374" duration="1703000" />
+      <workItem from="1594065413988" duration="1304000" />
+      <workItem from="1594144003492" duration="595000" />
+      <workItem from="1594454817196" duration="2668000" />
+      <workItem from="1594483497237" duration="619000" />
     </task>
     <servers />
   </component>
@@ -336,26 +337,26 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="648" height="618" key="DebuggerActiveHint/0.0.1360.728@0.0.1360.728" timestamp="1590731217703" />
-    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1588528942463">
+    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1594485269150">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1588528942463" />
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom" timestamp="1593890274470">
+    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1594485269150" />
+    <state width="1317" height="550" key="GridCell.Tab.0.bottom" timestamp="1594459919075">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593890274470" />
-    <state width="1317" height="151" key="GridCell.Tab.0.center" timestamp="1593890274470">
+    <state width="1317" height="550" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1594459919075" />
+    <state width="1317" height="550" key="GridCell.Tab.0.center" timestamp="1594459919075">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1593890274470" />
-    <state width="1317" height="151" key="GridCell.Tab.0.left" timestamp="1593890274470">
+    <state width="1317" height="550" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1594459919075" />
+    <state width="1317" height="550" key="GridCell.Tab.0.left" timestamp="1594459919075">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1593890274470" />
-    <state width="1317" height="151" key="GridCell.Tab.0.right" timestamp="1593890274470">
+    <state width="1317" height="550" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1594459919075" />
+    <state width="1317" height="550" key="GridCell.Tab.0.right" timestamp="1594459919075">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="151" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1593890274470" />
+    <state width="1317" height="550" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1594459919075" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1593718522742">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

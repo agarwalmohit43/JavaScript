@@ -1,0 +1,84 @@
+Prototypal Inheritance:
+
+[[Prototype]]: It is special hidden property in Objects.
+__proto__: it is getter/setter for the [[Prototype]] property.
+
+In modern JS
+__proto__ is replaced by Object.getPrototypeOf/Object.setPrototypeOf
+
+
+F.prototype
+In function constructor new objects can be created by new F().
+
+F.prototype is an object then new keyword set the [[Prototype]] of it.
+The default "prototype" is an object with the only property constructor that points back to the function itself.
+examples 
+function Rabbit() {}
+// by default:
+// Rabbit.prototype = { constructor: Rabbit }
+
+alert( Rabbit.prototype.constructor == Rabbit ); // true
+
+
+
+let arr = [1, 2, 3];
+
+// it inherits from Array.prototype?
+alert( arr.__proto__ === Array.prototype ); // true
+
+// then from Object.prototype?
+alert( arr.__proto__.__proto__ === Object.prototype ); // true
+
+// and null on the top.
+alert( arr.__proto__.__proto__.__proto__ ); // null
+
+
+
+
+String.prototype.show = function() {
+  alert(this);
+};
+
+"BOOM!".show(); // BOOM!
+
+
+
+
+
+Borrowing from prototypes
+let obj = {
+  0: "Hello",
+  1: "world!",
+  length: 2,
+};
+
+obj.join = Array.prototype.join;
+
+alert( obj.join(',') ); 
+
+
+
+
+Modern
+Object.create(proto, [descriptors]) – creates an empty object with given proto as [[Prototype]] and optional property descriptors.
+Object.getPrototypeOf(obj) – returns the [[Prototype]] of obj.
+Object.setPrototypeOf(obj, proto) – sets the [[Prototype]] of obj to proto.
+
+more powerfull clonnig
+let clone = Object.create(Object.getPrototypeOf(obj), Object.getOwnPropertyDescriptors(obj));
+T
+example
+let animal = {
+  eats: true
+};
+
+// create a new object with animal as a prototype
+let rabbit = Object.create(animal);
+
+alert(rabbit.eats); // true
+
+alert(Object.getPrototypeOf(rabbit) === animal); // true
+
+Object.setPrototypeOf(rabbit, {}); // change the prototype of rabbit to {}
+
+alert(rabbit.eats); //false

@@ -17,3 +17,18 @@ Polyfills
 substring vs slice-----------> done
 
 Array.isArray([])------------> done
+
+
+//Objects
+1. let descriptor = Object.getOwnPropertyDescriptor(obj, propertyName);
+2. Object.defineProperty(obj, propertyName, descriptor)
+3. Object.defineProperties(obj, {
+  prop1: descriptor1,
+  prop2: descriptor2
+  // ...
+});
+
+4.  Object.getOwnPropertyDescriptors(obj)
+
+5. cloning
+let clone = Object.defineProperties({}, Object.getOwnPropertyDescriptors(obj));

@@ -1,0 +1,4 @@
+Prototypal Inheritance:
+
+[[Prototype]]: It is special hidden property in Objects.
+__proto__: it is getter/setter for the [[Prototype]] property

@@ -1,0 +1,13 @@
+Prototypal Inheritance:
+
+[[Prototype]]: It is special hidden property in Objects.
+__proto__: it is getter/setter for the [[Prototype]] property.
+
+In modern JS
+__proto__ is replaced by Object.getPrototypeOf/Object.setPrototypeOf
+
+
+F.prototype
+In function constructor new objects can be created by new F().
+
+F.prototype is an object then new keyword set the [[Prototype]] of it.
