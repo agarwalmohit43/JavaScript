@@ -57,15 +57,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/Basic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/LinkedList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/LinkedList_Object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/Queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/Stack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/Prototypal Inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/Prototypal Inheritance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Data Structure/LinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Data Structure/LinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +282,7 @@
       <workItem from="1594144003492" duration="595000" />
       <workItem from="1594454817196" duration="2668000" />
       <workItem from="1594483497237" duration="619000" />
-      <workItem from="1596955224898" duration="11853000" />
+      <workItem from="1596955224898" duration="17977000" />
     </task>
     <servers />
   </component>
@@ -349,22 +342,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1594485269150" />
-    <state width="1317" height="214" key="GridCell.Tab.0.bottom" timestamp="1596973789590">
+    <state width="1317" height="193" key="GridCell.Tab.0.bottom" timestamp="1596986115598">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1596973789590" />
-    <state width="1317" height="214" key="GridCell.Tab.0.center" timestamp="1596973789589">
+    <state width="1317" height="193" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1596986115598" />
+    <state width="1317" height="193" key="GridCell.Tab.0.center" timestamp="1596986115598">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1596973789589" />
-    <state width="1317" height="214" key="GridCell.Tab.0.left" timestamp="1596973789589">
+    <state width="1317" height="193" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1596986115598" />
+    <state width="1317" height="193" key="GridCell.Tab.0.left" timestamp="1596986115598">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1596973789589" />
-    <state width="1317" height="214" key="GridCell.Tab.0.right" timestamp="1596973789590">
+    <state width="1317" height="193" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1596986115598" />
+    <state width="1317" height="193" key="GridCell.Tab.0.right" timestamp="1596986115598">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="214" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1596973789590" />
+    <state width="1317" height="193" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1596986115598" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1596973789591">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

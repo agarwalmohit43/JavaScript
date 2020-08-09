@@ -113,15 +113,71 @@ class LinkedList {
       current = current.next
     }
   }
+
+  //searchRecursive
+  search(item, head = this.head) {
+    if (head === null) {
+      console.log('Not found')
+      return
+    }
+
+    if (head.data === item) {
+      console.log('Element Found: ', item)
+    } else {
+      this.search(item, head.next)
+    }
+  }
+
+  //detect loop
+  detectLoop() {
+    let set = new Set()
+    let current = this.head
+    while (current) {
+      if (set.has(current)) return true
+
+      set.add(current)
+      current = current.next
+    }
+    return false
+  }
+
+  //reverse a list
+  reverse() {
+    let current = this.head
+    let prev = null
+    let next = null
+    while (current) {
+      next = current.next
+      current.next = prev
+      prev = current
+      current = next
+    }
+    this.head = prev
+  }
 }
 const ll = new LinkedList()
-ll.insertFirst(5)
-ll.insertFirst(6)
-ll.insertAt(7, 1)
-ll.insertAt(71, 2)
-ll.insertLastNode(82)
-ll.insertLastNode(88)
-ll.getAt(0)
-ll.remove(0)
+// ll.insertFirst(5)
+// ll.insertFirst(6)
+// ll.insertAt(7, 1)
+// ll.insertAt(71, 2)
+// ll.insertLastNode(82)
+// ll.insertLastNode(88)
+// ll.getAt(0)
+// ll.remove(0)
+// ll.printData()
+// ll.search(99)
+// console.log('Size:', ll.size)
+
+//detectLoop
+ll.insertFirst(1)
+ll.insertFirst(2)
+ll.insertFirst(3)
+ll.insertFirst(4)
+// ll.head.next.next.next.next = ll.head
+// ll.detectLoop()
+//   ? console.log('Loop Detected')
+//   : console.log('Loop Not Detected')
+
+// ll.printData()
+ll.reverse()
 ll.printData()
-console.log('Size:', ll.size)
