@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943ea8c2-f67d-4566-9d13-8fd701ddf018" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PromiseCallbacksAsync/Promise/fetchResponse.js" beforeDir="false" afterPath="$PROJECT_DIR$/PromiseCallbacksAsync/Promise/fetchResponse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prototypal inheritance/Prototypal Inheritance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prototypal inheritance/Prototypal Inheritance.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596893403812</updated>
-      <workItem from="1596893404949" duration="1770000" />
+      <workItem from="1596893404949" duration="2484000" />
     </task>
     <servers />
   </component>
@@ -79,21 +77,21 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="545" y="27" key="EnvironmentVariablesDialog/0.0.1360.728@0.0.1360.728" timestamp="1596893868213" />
-    <state width="1317" height="172" key="GridCell.Tab.0.bottom" timestamp="1596893928924">
+    <state width="1317" height="172" key="GridCell.Tab.0.bottom" timestamp="1596913784458">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="172" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1596893928924" />
-    <state width="1317" height="172" key="GridCell.Tab.0.center" timestamp="1596893928923">
+    <state width="1317" height="172" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1596913784458" />
+    <state width="1317" height="172" key="GridCell.Tab.0.center" timestamp="1596913784458">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="172" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1596893928923" />
-    <state width="1317" height="172" key="GridCell.Tab.0.left" timestamp="1596893928923">
+    <state width="1317" height="172" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1596913784458" />
+    <state width="1317" height="172" key="GridCell.Tab.0.left" timestamp="1596913784457">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="172" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1596893928923" />
-    <state width="1317" height="172" key="GridCell.Tab.0.right" timestamp="1596893928924">
+    <state width="1317" height="172" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1596913784457" />
+    <state width="1317" height="172" key="GridCell.Tab.0.right" timestamp="1596913784458">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="172" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1596893928924" />
+    <state width="1317" height="172" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1596913784458" />
   </component>
 </project>

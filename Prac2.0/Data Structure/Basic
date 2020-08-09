@@ -1,0 +1,9 @@
+Stack: LIFO
+Basic Func: push, pop
+reverse
+Basic func: shift, unshift
+
+Queue: FIFO
+Basic Func: unshift, pop
+reverse
+Basic func: push, shift
