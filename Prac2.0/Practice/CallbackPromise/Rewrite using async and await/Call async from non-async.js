@@ -1,7 +1,7 @@
 async function wait() {
-    await new Promise(resolve => setTimeout(resolve, 1000));
+  await new Promise((resolve) => setTimeout(resolve, 10000))
 
-    return 10;
+  return 10
 }
 
 // ...what to write here?
@@ -17,7 +17,7 @@ async function wait() {
 
 //2nd way
 function fCallWait() {
-    wait().then(console.log)
+  wait().then(console.log)
 }
 
-fCallWait();
+fCallWait()

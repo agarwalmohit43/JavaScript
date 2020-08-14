@@ -1,0 +1,20 @@
+Function has access to variables that are defined in its calling context. The formal name of this phenomenon is the lexical scope.
+			
+			
+			function createCounter() {
+let counter = 0
+const myFunction = function() {
+counter = counter + 1
+return counter
+ }
+   return myFunction
+ }
+ const increment = createCounter()
+ const c1 = increment()
+ const c2 = increment()
+ const c3 = increment()
+ console.log('example increment', c1, c2, c3)
+			
+The key to remember is that when a function gets declared, it contains a function definition and a closure. The closure is a collection of all the variables in scope at the time of creation of the function.
+
+The way I will always remember closures is through the backpack analogy. When a function gets created and passed around or returned from another function, it carries a backpack with it. And in the backpack are all the variables that were in scope when the function was declared.
