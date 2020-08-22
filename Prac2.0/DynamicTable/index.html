@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+        <script src="dynamicTable.js"></script>
+        <style>
+            table#dynamicTable {
+                empty-cells: show;
+                border-collapse: collapse;
+            }
+            td {
+                width: 50px;
+                height: 50px;
+            }
+            td:hover {
+                background-color: #00b7ff;
+            }
+        </style>
+    </head>
+    <body>
+        <form onsubmit="createTable(event)">
+            <input id="rows" type="text" title="Enter only Numbers" />
+            <input id="column" type="text" title="Enter only Numbers" />
+            <button type="submit">Create Table</button>
+        </form>
+
+        <table id="dynamicTable" border="1"></table>
+    </body>
+</html>

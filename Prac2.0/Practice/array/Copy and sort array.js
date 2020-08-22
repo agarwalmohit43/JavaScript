@@ -1,6 +1,6 @@
-let arr = ["HTML", "JavaScript", "CSS"];
+let arr = ['HTML&CSS', 'JavaScript', 'CSS']
 
-let copySortedArr = arr.slice().sort();
+let copySortedArr = arr.slice().sort()
 
-console.log( copySortedArr ); // CSS, HTML, JavaScript
-console.log( arr ); //HTML, JavaScript, CSS
+console.log(copySortedArr) // CSS, HTML&CSS, JavaScript
+console.log(arr) //HTML&CSS, JavaScript, CSS

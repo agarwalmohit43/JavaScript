@@ -57,15 +57,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750ad8ed-ae33-425f-b6fa-8fb731888025" name="Default" comment="this keyword uses">
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/basic2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/fruitSmoothie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set/MapPrac.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set/SetPrac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/CSS/indexStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/HTML/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS/HTML/profilePic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/DynamicTable/dynamicTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/DynamicTable/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Date and Time/diff between two dates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/Date and Time/find Date number of days before or after.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/calculateFurtherDates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Practice/countWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/Prototypal inheritance/testingPrototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/this prac/thisObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac2.0/this prac/thisObjectFunction.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await/Call async from non-async.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await/Call async from non-async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/placeholderConsoleObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/placeholderConsoleObjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeJsProject/Javascript Check/Jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeJsProject/Javascript Check/Jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Quantifiers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Browser  Document, Events, Interfaces/Regexp/Quantifiers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Class/static.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Class/static.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Map&amp;Set/mapBasics.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Map&amp;Set/mapBasics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/HTML Practice/emailvaildating.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/HTML Practice/emailvaildating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/array/Copy and sort array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/array/Copy and sort array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set/MapPrac.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set/MapPrac.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +90,9 @@
       <list>
         <option value="tsconfig.json" />
         <option value="package.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -106,7 +120,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML Prac" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -122,38 +137,39 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\HTML Prac" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Practice\import_export" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\HTML&amp;CSS" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\HTML&amp;CSS\CSS" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\HTML" />
+      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Prototypal inheritance" />
       <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Practice\JavaScript Fundamentals" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Array\practice" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Proxy and Handlers\Proxy" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\Modules\exportImport" />
-      <recent name="C:\Users\MOHIT AGARWAL\WebstormProjects\Prac2.0\PromiseCallbacksAsync\Promise\Promise API" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.fruitSmoothie.js">
+  <component name="RunManager" selected="Node.js.calculateFurtherDates.js">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration name="Call async from non-async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await/Call async from non-async.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/Rewrite using async and await">
+    <configuration name="MapPrac.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set/MapPrac.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/map&amp;set">
       <method v="2" />
     </configuration>
-    <configuration name="basic2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/basic2.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise">
+    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Proxy and Handlers/Proxy/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Proxy and Handlers/Proxy">
       <method v="2" />
     </configuration>
-    <configuration name="basic.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise">
+    <configuration name="calculateFurtherDates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/calculateFurtherDates.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice">
       <method v="2" />
     </configuration>
-    <configuration name="basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise/basic.js" working-dir="$PROJECT_DIR$/Prac2.0/PromiseCallbacksAsync/Promise">
+    <configuration name="countWords.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/countWords.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice">
       <method v="2" />
     </configuration>
-    <configuration name="fruitSmoothie.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise/fruitSmoothie.js" working-dir="$PROJECT_DIR$/Prac2.0/Practice/CallbackPromise">
+    <configuration name="mapBasics.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Prac2.0/Map&amp;Set/mapBasics.js" working-dir="$PROJECT_DIR$/Prac2.0/Map&amp;Set">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -166,19 +182,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Node.js.mapBasics.js" />
+      <item itemvalue="Node.js.MapPrac.js" />
+      <item itemvalue="Node.js.countWords.js" />
       <item itemvalue="Node.js.basic.js" />
-      <item itemvalue="Node.js.basic.js (1)" />
-      <item itemvalue="Node.js.Call async from non-async.js" />
-      <item itemvalue="Node.js.basic2.js" />
-      <item itemvalue="Node.js.fruitSmoothie.js" />
+      <item itemvalue="Node.js.calculateFurtherDates.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.fruitSmoothie.js" />
-        <item itemvalue="Node.js.basic2.js" />
-        <item itemvalue="Node.js.Call async from non-async.js" />
-        <item itemvalue="Node.js.basic.js (1)" />
+        <item itemvalue="Node.js.calculateFurtherDates.js" />
         <item itemvalue="Node.js.basic.js" />
+        <item itemvalue="Node.js.countWords.js" />
+        <item itemvalue="Node.js.MapPrac.js" />
+        <item itemvalue="Node.js.mapBasics.js" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +308,10 @@
       <workItem from="1596955224898" duration="18581000" />
       <workItem from="1597031953802" duration="2167000" />
       <workItem from="1597243276058" duration="4811000" />
-      <workItem from="1597333039029" duration="3162000" />
+      <workItem from="1597333039029" duration="15772000" />
+      <workItem from="1597899972371" duration="9435000" />
+      <workItem from="1598005917397" duration="878000" />
+      <workItem from="1598095059434" duration="13276000" />
     </task>
     <servers />
   </component>
@@ -328,34 +347,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="427" y="207" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1360.728@0.0.1360.728" timestamp="1591431604707" />
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1588799897800">
-      <screen x="0" y="0" width="1360" height="728" />
-    </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1588799897800" />
     <state width="648" height="618" key="DebuggerActiveHint" timestamp="1590731217703">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="648" height="618" key="DebuggerActiveHint/0.0.1360.728@0.0.1360.728" timestamp="1590731217703" />
-    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1597347932498">
+    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1598095756628">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1597347932498" />
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom" timestamp="1597378205565">
+    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1598095756628" />
+    <state width="1317" height="196" key="GridCell.Tab.0.bottom" timestamp="1598109164928">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1597378205565" />
-    <state width="1317" height="195" key="GridCell.Tab.0.center" timestamp="1597378205565">
+    <state width="1317" height="196" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1598109164928" />
+    <state width="1317" height="196" key="GridCell.Tab.0.center" timestamp="1598109164927">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1597378205565" />
-    <state width="1317" height="195" key="GridCell.Tab.0.left" timestamp="1597378205564">
+    <state width="1317" height="196" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1598109164927" />
+    <state width="1317" height="196" key="GridCell.Tab.0.left" timestamp="1598109164927">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1597378205564" />
-    <state width="1317" height="195" key="GridCell.Tab.0.right" timestamp="1597378205565">
+    <state width="1317" height="196" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1598109164927" />
+    <state width="1317" height="196" key="GridCell.Tab.0.right" timestamp="1598109164927">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1597378205565" />
+    <state width="1317" height="196" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1598109164927" />
     <state width="1317" height="214" key="GridCell.Tab.1.bottom" timestamp="1597243984599">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -408,22 +423,18 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1596956405641" />
-    <state x="272" y="93" key="Vcs.Push.Dialog.v2" timestamp="1588799873675">
-      <screen x="0" y="0" width="1360" height="728" />
-    </state>
-    <state x="272" y="93" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1588799873675" />
     <state x="488" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592764400926">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="488" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.728@0.0.1360.728" timestamp="1592764400926" />
-    <state x="336" y="162" key="run.anything.popup" timestamp="1591295821707">
+    <state x="336" y="162" key="run.anything.popup" timestamp="1597386624048">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1591295821707" />
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593353926596">
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1597386624048" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598121632785">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1593353926596" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1598121632785" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

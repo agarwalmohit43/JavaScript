@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+    </head>
+    <body>
+        <!--Comments in HTML&CSS-->
+        <!--        anchor tag-->
+        <a href="blog.html">Go to blogpost</a>
+        <!--        Headings-->
+        <h1>Heading</h1>
+        <h2>Heading</h2>
+        <h3>Heading</h3>
+        <h4>Heading</h4>
+        <h5>Heading</h5>
+        <h6>Heading</h6>
+
+        <!--    Paragraphs-->
+        <p>
+            In this crash <strong>course I will cram as much </strong>about HTML
+            that I can. This is meant for absolute beginners. If you are
+            interested in <em>learning HTML but know nothing</em>, then you are
+            in the right place. We will be creating a cheat sheet with all of
+            the common HTML5 tags,
+            <a href="index.html" target="_blank">attributes</a>, semantic
+            markup, etc. We will not be focusing on CSS in this video. The CSS
+            crash course will be released shortly after
+        </p>
+
+        <!--    List-->
+        <ul>
+            <li>List</li>
+            <li>List</li>
+            <li>List</li>
+            <li>List</li>
+        </ul>
+        <ol>
+            <li>List</li>
+            <li>List</li>
+            <li>List</li>
+            <li>List</li>
+        </ol>
+        <!--    Table-->
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Mohit</td>
+                    <td>25</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!--        Break a line-->
+        <br />
+
+        <!--        Put a line-->
+        <hr />
+
+        <!--    Forms-->
+        <form onsubmit="event.preventDefault()">
+            <div>
+                <label>FirstName</label>
+                <input type="text" placeholder="FName.." name="firstName" />
+            </div>
+            <br />
+            <div>
+                <label>LastName</label>
+                <input type="text" placeholder="LName.." name="lastName" />
+            </div>
+            <br />
+            <div>
+                <label>Message</label>
+                <textarea name="message"></textarea>
+            </div>
+            <br />
+            <div>
+                <label>Gender</label>
+                <select name="gender">
+                    <option value="male" selected>Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </div>
+            <br />
+            <input type="submit" value="Submit" name="Submit" />
+        </form>
+
+        <br />
+        <!--        Button-->
+        <button onclick="javascript:alert('Hello')">ClickMe</button>
+
+        <br />
+        <!--        Image-->
+        <a href="profilePic.jpg">
+            <img
+                src="profilePic.jpg"
+                width="100px"
+                height="100px"
+                alt="ProfilePic"
+            />
+        </a>
+
+        <!--        Quotations-->
+        <blockquote cite="https://www.youtube.com/watch?v=UB1O30fR-EE">
+            In this crash course I will cram as much about HTML that I can. This
+            is meant for absolute beginners. If you are interested in learning
+            HTML but know nothing, then you are in the right place. We will be
+            creating a cheat sheet with all of the common HTML5 tags,
+            attributes, semantic markup, etc. We will not be focusing on CSS in
+            this video. The CSS crash course will be released shortly after
+        </blockquote>
+
+        <br />
+        <!--        abbreviation-->
+        <p>Today is a <abbr title="Good"> good </abbr>day</p>
+
+        <!--        cite-->
+        <p>Today is a <cite> good </cite>day</p>
+
+        <div style="margin-top: 500px;"></div>
+    </body>
+</html>
