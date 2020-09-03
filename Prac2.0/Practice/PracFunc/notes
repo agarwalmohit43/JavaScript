@@ -1,0 +1,2 @@
+if we are calling method using . operator then this refers to object calling it
+else we are calling standalone then this refers to window object, in strict mode windows object is undefined

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Web App</title>
+  <script src="webapp.js"></script>
+  <link href="webapp.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+  <form>
+    Source of data: 
+    <input id="src-test" type="radio" 
+           name="data-source" value="test" checked>  
+    <label for="src-local">Test Data</label>
+    <input id="src-server" type="radio" 
+           name="data-source" value="server">  
+    <label for="src-server">Server Data</label>
+  </form>
+
+  <div class="row">
+    <div class="country">
+      <form>
+        The Country: <input class="country-input" 
+                            type="text" value="Pakistan"/>
+      </form>
+    </div>
+    <div class="average">
+      The Average: 77
+    </div>
+    <div class="horiz-bar" style="width:154px">&nbsp;</div>
+  </div>
+  
+  <div class="row">
+    <div class="country">
+      <form>
+        The Country: <input class="country-input" 
+                            type="text" value="Australia"/>
+      </form>
+    </div>
+    <div class="average">
+      The Average: 31
+    </div>
+    <div class="horiz-bar" style="width:62px">&nbsp;</div>
+  </div>
+
+</body>
+</html>
